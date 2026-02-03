@@ -3,6 +3,10 @@ name: Daily Dev Automation
 permissions:
   contents: write
 
+concurrency:
+  group: daily-dev-automation
+  cancel-in-progress: true
+
 on:
   schedule:
     - cron: "30 3 * * *"
@@ -17,6 +21,11 @@ jobs:
         uses: actions/checkout@v3
         with:
           persist-credentials: true
+          fetch-depth: 0
+
+      - name: Sync with remote
+        run: |
+          git pull --rebase origin main
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -34,7 +43,5 @@ jobs:
           git config user.email "bot@github.com"
 
           git add .
-          git commit -m "Daily automated update" || echo "No changes"
-
-          git pull --rebase origin main
+          git diff --cached --quiet || git commit -m "Daily automated update"
           git push origin main

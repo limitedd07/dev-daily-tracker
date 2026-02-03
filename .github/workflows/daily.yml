@@ -23,10 +23,6 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
 
-      - name: Sync with remote
-        run: |
-          git pull --rebase origin main
-
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
@@ -42,6 +38,12 @@ jobs:
           git config user.name "dev-activity-bot"
           git config user.email "bot@github.com"
 
+          git pull --rebase origin main
           git add .
-          git diff --cached --quiet || git commit -m "Daily automated update"
-          git push origin main
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily automated update"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi

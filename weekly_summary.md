@@ -8,3 +8,21 @@ Each week includes:
 - Reflection prompts for deeper learning
 
 ---
+
+## Week of 2026-02-02
+
+**Total Learning Entries:** 1
+
+**Domain Breakdown:**
+- System Design: 1 entries
+
+**Topics Covered:**
+- [System Design] CAP Theorem
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

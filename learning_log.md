@@ -1,25 +1,14 @@
-# Learning Log
+# 📚 Daily Learning Log
 
-## 2026-02-03 — [DSA] Binary Search on Answer
-**Difficulty:** Intermediate
+*Automated daily learning documentation across AI, DSA, and System Design domains.*
 
-Binary Search on Answer applies binary search on the solution space.
-🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+This file contains daily learning entries generated automatically by the dev-daily-tracker system. Each entry includes a topic, difficulty level, explanation, and reference link.
 
-## 2026-02-03 — [DSA] Binary Search on Answer
-**Difficulty:** Intermediate
+---
 
-Binary Search on Answer applies binary search on the solution space.
-🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+## 2026-02-04 — [System Design] CAP Theorem
+**Difficulty:** Advanced
 
-## 2026-02-04 — [AI] Retrieval-Augmented Generation (RAG)
-**Difficulty:** Intermediate
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
-RAG improves LLM accuracy by retrieving documents before generation.
-🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
-
-## 2026-02-04 — [DSA] Binary Search on Answer
-**Difficulty:** Intermediate
-
-Binary Search on Answer applies binary search on the solution space.
-🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+🔗 Reference: https://www.ibm.com/topics/cap-theorem

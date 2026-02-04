@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Binary Search on Answer
-Domain: DSA
+Topic: CAP Theorem
+Domain: System Design
 Style: Minimal, professional, flat illustration.

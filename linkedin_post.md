@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **CAP Theorem** (System Design).
 
-Binary Search on Answer applies binary search on the solution space.
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
-#LearningInPublic #AI #DSA #SystemDesign
+#LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

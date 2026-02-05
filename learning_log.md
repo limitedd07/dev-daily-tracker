@@ -12,3 +12,10 @@ This file contains daily learning entries generated automatically by the dev-dai
 CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-02-05 — [DSA] Dijkstra's Algorithm
+**Difficulty:** Advanced
+
+Dijkstra finds shortest paths in weighted graphs with non-negative edges.
+
+🔗 Reference: https://leetcode.com/problems/network-delay-time/

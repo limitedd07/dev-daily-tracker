@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Dijkstra's Algorithm** (DSA).
+Today I explored **CAP Theorem** (System Design).
 
-Dijkstra finds shortest paths in weighted graphs with non-negative edges.
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -26,3 +26,10 @@ Dijkstra finds shortest paths in weighted graphs with non-negative edges.
 CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-02-07 — [AI] Fine-tuning vs Prompt Engineering
+**Difficulty:** Beginner
+
+Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
+
+🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning

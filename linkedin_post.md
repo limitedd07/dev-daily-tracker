@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **CAP Theorem** (System Design).
+Today I explored **Fine-tuning vs Prompt Engineering** (AI).
 
-CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
+Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

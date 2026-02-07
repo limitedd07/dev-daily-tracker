@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: CAP Theorem
-Domain: System Design
+Topic: Fine-tuning vs Prompt Engineering
+Domain: AI
 Style: Minimal, professional, flat illustration.

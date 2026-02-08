@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Fine-tuning vs Prompt Engineering
+Topic: Model Quantization
 Domain: AI
 Style: Minimal, professional, flat illustration.

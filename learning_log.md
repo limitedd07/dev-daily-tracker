@@ -33,3 +33,10 @@ CAP theorem states distributed systems can't guarantee all three: Consistency, A
 Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
 
 🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning
+
+## 2026-02-08 — [AI] Model Quantization
+**Difficulty:** Intermediate
+
+Quantization techniques convert 32-bit floats to 8-bit integers, dramatically reducing memory and compute requirements while maintaining acceptable accuracy for deployment.
+
+🔗 Reference: https://pytorch.org/docs/stable/quantization.html

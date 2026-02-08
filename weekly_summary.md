@@ -26,3 +26,8 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-02-08
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus

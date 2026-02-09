@@ -40,3 +40,10 @@ Fine-tuning updates model weights on task-specific data, while prompt engineerin
 Quantization techniques convert 32-bit floats to 8-bit integers, dramatically reducing memory and compute requirements while maintaining acceptable accuracy for deployment.
 
 🔗 Reference: https://pytorch.org/docs/stable/quantization.html
+
+## 2026-02-09 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embeddings map discrete tokens to continuous vector representations.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Model Quantization** (AI).
+Today I explored **Embedding Spaces** (AI).
 
-Quantization techniques convert 32-bit floats to 8-bit integers, dramatically reducing memory and compute requirements while maintaining acceptable accuracy for deployment.
+Embeddings map discrete tokens to continuous vector representations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

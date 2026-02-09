@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Model Quantization
+Topic: Embedding Spaces
 Domain: AI
 Style: Minimal, professional, flat illustration.

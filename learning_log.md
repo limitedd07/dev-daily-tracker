@@ -47,3 +47,10 @@ Quantization techniques convert 32-bit floats to 8-bit integers, dramatically re
 Embeddings map discrete tokens to continuous vector representations.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-02-10 — [DSA] Monotonic Stack/Queue
+**Difficulty:** Intermediate
+
+Monotonic structures maintain sorted order while processing sequences.
+
+🔗 Reference: https://leetcode.com/problems/next-greater-element-i/

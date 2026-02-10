@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Monotonic Stack/Queue** (DSA).
 
-Embeddings map discrete tokens to continuous vector representations.
+Monotonic structures maintain sorted order while processing sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

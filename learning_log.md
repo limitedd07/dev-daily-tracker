@@ -54,3 +54,10 @@ Embeddings map discrete tokens to continuous vector representations.
 Monotonic structures maintain sorted order while processing sequences.
 
 🔗 Reference: https://leetcode.com/problems/next-greater-element-i/
+
+## 2026-02-11 — [AI] BERT Pre-training
+**Difficulty:** Advanced
+
+BERT uses masked language modeling and next sentence prediction for pre-training.
+
+🔗 Reference: https://arxiv.org/abs/1810.04805

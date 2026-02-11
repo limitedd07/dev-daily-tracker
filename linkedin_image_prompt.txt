@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Monotonic Stack/Queue
-Domain: DSA
+Topic: BERT Pre-training
+Domain: AI
 Style: Minimal, professional, flat illustration.

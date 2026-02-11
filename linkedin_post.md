@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Monotonic Stack/Queue** (DSA).
+Today I explored **BERT Pre-training** (AI).
 
-Monotonic structures maintain sorted order while processing sequences.
+BERT uses masked language modeling and next sentence prediction for pre-training.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

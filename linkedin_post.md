@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **BERT Pre-training** (AI).
+Today I explored **Backtracking** (DSA).
 
-BERT uses masked language modeling and next sentence prediction for pre-training.
+Backtracking explores all possible solutions by building candidates incrementally.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

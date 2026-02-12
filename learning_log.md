@@ -61,3 +61,10 @@ Monotonic structures maintain sorted order while processing sequences.
 BERT uses masked language modeling and next sentence prediction for pre-training.
 
 🔗 Reference: https://arxiv.org/abs/1810.04805
+
+## 2026-02-12 — [DSA] Backtracking
+**Difficulty:** Intermediate
+
+Backtracking explores all possible solutions by building candidates incrementally.
+
+🔗 Reference: https://leetcode.com/problems/n-queens/

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: BERT Pre-training
-Domain: AI
+Topic: Backtracking
+Domain: DSA
 Style: Minimal, professional, flat illustration.

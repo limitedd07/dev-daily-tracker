@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Backtracking
-Domain: DSA
+Topic: Database Replication
+Domain: System Design
 Style: Minimal, professional, flat illustration.

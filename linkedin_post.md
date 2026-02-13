@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Backtracking** (DSA).
+Today I explored **Database Replication** (System Design).
 
-Backtracking explores all possible solutions by building candidates incrementally.
+Replication copies data across multiple database instances for availability.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

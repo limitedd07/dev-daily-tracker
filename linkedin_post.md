@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Replication** (System Design).
+Today I explored **Monotonic Stack/Queue** (DSA).
 
-Replication copies data across multiple database instances for availability.
+Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

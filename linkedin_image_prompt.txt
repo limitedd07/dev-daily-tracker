@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Database Replication
-Domain: System Design
+Topic: Monotonic Stack/Queue
+Domain: DSA
 Style: Minimal, professional, flat illustration.

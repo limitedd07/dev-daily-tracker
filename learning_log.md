@@ -75,3 +75,10 @@ Backtracking explores all possible solutions by building candidates incrementall
 Replication copies data across multiple database instances for availability.
 
 🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html
+
+## 2026-02-14 — [DSA] Monotonic Stack/Queue
+**Difficulty:** Intermediate
+
+Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
+
+🔗 Reference: https://leetcode.com/problems/next-greater-element-i/

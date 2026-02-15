@@ -31,3 +31,33 @@ Each week includes:
 - [ ] Review learning log for this week
 - [ ] Identify key takeaways
 - [ ] Plan next week's focus
+
+## Week of 2026-02-15
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-02-09
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 3 entries
+- AI: 2 entries
+- System Design: 1 entries
+
+**Topics Covered:**
+- [DSA] Monotonic Stack/Queue
+- [AI] BERT Pre-training
+- [DSA] Backtracking
+- [System Design] Database Replication
+- [DSA] Monotonic Stack/Queue
+- [AI] Neural Architecture Search (NAS)
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

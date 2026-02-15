@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Monotonic Stack/Queue
-Domain: DSA
+Topic: Neural Architecture Search (NAS)
+Domain: AI
 Style: Minimal, professional, flat illustration.

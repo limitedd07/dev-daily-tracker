@@ -82,3 +82,10 @@ Replication copies data across multiple database instances for availability.
 Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
 
 🔗 Reference: https://leetcode.com/problems/next-greater-element-i/
+
+## 2026-02-15 — [AI] Neural Architecture Search (NAS)
+**Difficulty:** Advanced
+
+NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
+
+🔗 Reference: https://arxiv.org/abs/1611.01578

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Neural Architecture Search (NAS)** (AI).
+Today I explored **Microservices Architecture** (System Design).
 
-NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
+Microservices decompose applications into independently deployable services.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

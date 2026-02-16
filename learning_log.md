@@ -89,3 +89,10 @@ Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O
 NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-02-16 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices decompose applications into independently deployable services.
+
+🔗 Reference: https://microservices.io/

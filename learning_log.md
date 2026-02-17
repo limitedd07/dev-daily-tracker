@@ -96,3 +96,10 @@ NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically
 Microservices decompose applications into independently deployable services.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-02-17 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

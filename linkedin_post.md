@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Microservices Architecture** (System Design).
+Today I explored **Large Language Models (LLMs)** (AI).
 
-Microservices decompose applications into independently deployable services.
+LLMs are massive models trained on vast text corpora for language understanding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

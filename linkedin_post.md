@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Large Language Models (LLMs)** (AI).
+Today I explored **Event-Driven Architecture** (System Design).
 
-LLMs are massive models trained on vast text corpora for language understanding.
+Event-driven systems communicate through asynchronous event notifications.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

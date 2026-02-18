@@ -103,3 +103,10 @@ Microservices decompose applications into independently deployable services.
 LLMs are massive models trained on vast text corpora for language understanding.
 
 🔗 Reference: https://openai.com/research/gpt-4
+
+## 2026-02-18 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven systems communicate through asynchronous event notifications.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Large Language Models (LLMs)
-Domain: AI
+Topic: Event-Driven Architecture
+Domain: System Design
 Style: Minimal, professional, flat illustration.

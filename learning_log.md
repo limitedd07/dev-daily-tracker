@@ -110,3 +110,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 Event-driven systems communicate through asynchronous event notifications.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-02-19 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+Binary Search on Answer applies binary search to the solution space.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

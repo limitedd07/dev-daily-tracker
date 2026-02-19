@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Event-Driven Architecture
-Domain: System Design
+Topic: Binary Search on Answer
+Domain: DSA
 Style: Minimal, professional, flat illustration.

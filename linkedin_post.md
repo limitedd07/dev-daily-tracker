@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Event-Driven Architecture** (System Design).
+Today I explored **Binary Search on Answer** (DSA).
 
-Event-driven systems communicate through asynchronous event notifications.
+Binary Search on Answer applies binary search to the solution space.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

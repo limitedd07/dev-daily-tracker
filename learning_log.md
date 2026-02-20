@@ -117,3 +117,10 @@ Event-driven systems communicate through asynchronous event notifications.
 Binary Search on Answer applies binary search to the solution space.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-02-20 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

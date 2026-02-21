@@ -124,3 +124,10 @@ Binary Search on Answer applies binary search to the solution space.
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-02-21 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

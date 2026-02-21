@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Diffusion Models** (AI).
+Today I explored **Vector Databases** (AI).
 
-Diffusion models generate images by iteratively denoising random noise.
+Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

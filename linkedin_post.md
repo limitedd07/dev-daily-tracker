@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Vector Databases** (AI).
+Today I explored **Neural Architecture Search (NAS)** (AI).
 
-Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
+NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

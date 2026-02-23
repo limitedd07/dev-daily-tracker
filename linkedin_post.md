@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Neural Architecture Search (NAS)** (AI).
+Today I explored **Diffusion Models** (AI).
 
-NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

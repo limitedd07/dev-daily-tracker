@@ -138,3 +138,10 @@ Vector databases like Pinecone and Weaviate enable semantic search by storing em
 NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-02-23 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

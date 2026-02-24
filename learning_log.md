@@ -145,3 +145,10 @@ NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-02-24 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+Indexes accelerate database queries by creating searchable data structures.
+
+🔗 Reference: https://use-the-index-luke.com/

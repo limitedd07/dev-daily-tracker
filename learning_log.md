@@ -152,3 +152,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Indexes accelerate database queries by creating searchable data structures.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-02-25 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG improves LLM accuracy by retrieving documents before generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Database Indexing
-Domain: System Design
+Topic: Retrieval-Augmented Generation (RAG)
+Domain: AI
 Style: Minimal, professional, flat illustration.

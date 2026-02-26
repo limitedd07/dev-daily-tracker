@@ -159,3 +159,10 @@ Indexes accelerate database queries by creating searchable data structures.
 RAG improves LLM accuracy by retrieving documents before generation.
 
 🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+## 2026-02-26 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embeddings map discrete tokens to continuous vector representations.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

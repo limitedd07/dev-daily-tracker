@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
+Today I explored **Embedding Spaces** (AI).
 
-RAG improves LLM accuracy by retrieving documents before generation.
+Embeddings map discrete tokens to continuous vector representations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

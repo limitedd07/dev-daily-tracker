@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Content Delivery Networks (CDN)** (System Design).
 
-Embeddings map discrete tokens to continuous vector representations.
+CDNs cache content at edge locations near users for faster delivery.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

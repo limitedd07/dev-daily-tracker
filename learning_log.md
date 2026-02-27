@@ -166,3 +166,10 @@ RAG improves LLM accuracy by retrieving documents before generation.
 Embeddings map discrete tokens to continuous vector representations.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-02-27 — [System Design] Content Delivery Networks (CDN)
+**Difficulty:** Beginner
+
+CDNs cache content at edge locations near users for faster delivery.
+
+🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

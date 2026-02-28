@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Content Delivery Networks (CDN)
+Topic: Circuit Breaker Pattern
 Domain: System Design
 Style: Minimal, professional, flat illustration.

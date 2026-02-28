@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Content Delivery Networks (CDN)** (System Design).
+Today I explored **Circuit Breaker Pattern** (System Design).
 
-CDNs cache content at edge locations near users for faster delivery.
+Circuit breakers monitor failure rates, opening to fail fast and closing after recovery periods, preventing resource exhaustion during downstream service failures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

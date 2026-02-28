@@ -173,3 +173,10 @@ Embeddings map discrete tokens to continuous vector representations.
 CDNs cache content at edge locations near users for faster delivery.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-02-28 — [System Design] Circuit Breaker Pattern
+**Difficulty:** Advanced
+
+Circuit breakers monitor failure rates, opening to fail fast and closing after recovery periods, preventing resource exhaustion during downstream service failures.
+
+🔗 Reference: https://martinfowler.com/bliki/CircuitBreaker.html

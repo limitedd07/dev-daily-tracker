@@ -180,3 +180,10 @@ CDNs cache content at edge locations near users for faster delivery.
 Circuit breakers monitor failure rates, opening to fail fast and closing after recovery periods, preventing resource exhaustion during downstream service failures.
 
 🔗 Reference: https://martinfowler.com/bliki/CircuitBreaker.html
+
+## 2026-03-01 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

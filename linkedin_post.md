@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Circuit Breaker Pattern** (System Design).
+Today I explored **KMP String Matching** (DSA).
 
-Circuit breakers monitor failure rates, opening to fail fast and closing after recovery periods, preventing resource exhaustion during downstream service failures.
+Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

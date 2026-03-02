@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Transformer Architecture** (AI).
 
-Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
+Transformers use self-attention mechanisms to process sequences in parallel.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

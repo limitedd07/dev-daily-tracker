@@ -187,3 +187,10 @@ Circuit breakers monitor failure rates, opening to fail fast and closing after r
 Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-03-02 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+Transformers use self-attention mechanisms to process sequences in parallel.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

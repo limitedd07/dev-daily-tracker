@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Fine-tuning vs Prompt Engineering** (AI).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+Fine-tuning adapts models through training; prompting guides through instructions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

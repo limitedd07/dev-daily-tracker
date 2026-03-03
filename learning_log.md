@@ -194,3 +194,10 @@ Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest P
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-03-03 — [AI] Fine-tuning vs Prompt Engineering
+**Difficulty:** Beginner
+
+Fine-tuning adapts models through training; prompting guides through instructions.
+
+🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning

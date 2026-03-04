@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Fine-tuning vs Prompt Engineering
-Domain: AI
+Topic: Trie Data Structure
+Domain: DSA
 Style: Minimal, professional, flat illustration.

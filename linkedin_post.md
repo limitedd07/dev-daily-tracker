@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Fine-tuning vs Prompt Engineering** (AI).
+Today I explored **Trie Data Structure** (DSA).
 
-Fine-tuning adapts models through training; prompting guides through instructions.
+Tries store strings in a tree for efficient prefix-based operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

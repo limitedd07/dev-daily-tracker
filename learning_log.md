@@ -201,3 +201,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 Fine-tuning adapts models through training; prompting guides through instructions.
 
 🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning
+
+## 2026-03-04 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries store strings in a tree for efficient prefix-based operations.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

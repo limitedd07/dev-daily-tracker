@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Trie Data Structure** (DSA).
+Today I explored **Load Balancing Strategies** (System Design).
 
-Tries store strings in a tree for efficient prefix-based operations.
+Load balancing distributes traffic across servers for scalability.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

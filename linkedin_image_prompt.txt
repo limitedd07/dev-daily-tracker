@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Trie Data Structure
-Domain: DSA
+Topic: Load Balancing Strategies
+Domain: System Design
 Style: Minimal, professional, flat illustration.

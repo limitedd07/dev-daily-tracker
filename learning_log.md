@@ -208,3 +208,10 @@ Fine-tuning adapts models through training; prompting guides through instruction
 Tries store strings in a tree for efficient prefix-based operations.
 
 🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 2026-03-05 — [System Design] Load Balancing Strategies
+**Difficulty:** Intermediate
+
+Load balancing distributes traffic across servers for scalability.
+
+🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/

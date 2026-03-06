@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Load Balancing Strategies** (System Design).
+Today I explored **CAP Theorem** (System Design).
 
-Load balancing distributes traffic across servers for scalability.
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -215,3 +215,10 @@ Tries store strings in a tree for efficient prefix-based operations.
 Load balancing distributes traffic across servers for scalability.
 
 🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/
+
+## 2026-03-06 — [System Design] CAP Theorem
+**Difficulty:** Advanced
+
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
+
+🔗 Reference: https://www.ibm.com/topics/cap-theorem

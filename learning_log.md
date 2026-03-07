@@ -222,3 +222,10 @@ Load balancing distributes traffic across servers for scalability.
 CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-03-07 — [DSA] Dynamic Programming Patterns
+**Difficulty:** Advanced
+
+Dynamic Programming solves optimization problems by storing solutions to subproblems, using memoization (top-down) or tabulation (bottom-up) to avoid redundant computation.
+
+🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns

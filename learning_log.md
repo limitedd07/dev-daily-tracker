@@ -229,3 +229,10 @@ CAP theorem states distributed systems can't guarantee all three: Consistency, A
 Dynamic Programming solves optimization problems by storing solutions to subproblems, using memoization (top-down) or tabulation (bottom-up) to avoid redundant computation.
 
 🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
+## 2026-03-08 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

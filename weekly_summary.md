@@ -121,3 +121,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-03-08
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-03-02
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 2 entries
+- DSA: 2 entries
+- System Design: 2 entries
+
+**Topics Covered:**
+- [AI] Fine-tuning vs Prompt Engineering
+- [DSA] Trie Data Structure
+- [System Design] Load Balancing Strategies
+- [System Design] CAP Theorem
+- [DSA] Dynamic Programming Patterns
+- [AI] GANs (Generative Adversarial Networks)
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

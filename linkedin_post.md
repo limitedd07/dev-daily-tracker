@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Dynamic Programming Patterns** (DSA).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-Dynamic Programming solves optimization problems by storing solutions to subproblems, using memoization (top-down) or tabulation (bottom-up) to avoid redundant computation.
+GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -2,6 +2,6 @@
 
 Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
+GANs use two competing networks to generate realistic synthetic data.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

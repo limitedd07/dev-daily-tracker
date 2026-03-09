@@ -236,3 +236,10 @@ Dynamic Programming solves optimization problems by storing solutions to subprob
 GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-03-09 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs use two competing networks to generate realistic synthetic data.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

@@ -243,3 +243,10 @@ GANs pit a generator against a discriminator in a minimax game, where the genera
 GANs use two competing networks to generate realistic synthetic data.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-03-10 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG improves LLM accuracy by retrieving documents before generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/

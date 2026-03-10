@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
 
-GANs use two competing networks to generate realistic synthetic data.
+RAG improves LLM accuracy by retrieving documents before generation.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

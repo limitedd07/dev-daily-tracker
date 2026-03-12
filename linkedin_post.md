@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Diffusion Models** (AI).
+Today I explored **Embedding Spaces** (AI).
 
-Diffusion models generate images by iteratively denoising random noise.
+Embeddings map discrete tokens to continuous vector representations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

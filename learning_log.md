@@ -264,3 +264,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Embeddings map discrete tokens to continuous vector representations.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-03-13 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices decompose applications into independently deployable services.
+
+🔗 Reference: https://microservices.io/

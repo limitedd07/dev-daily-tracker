@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Microservices Architecture** (System Design).
 
-Embeddings map discrete tokens to continuous vector representations.
+Microservices decompose applications into independently deployable services.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

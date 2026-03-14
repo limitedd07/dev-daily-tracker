@@ -271,3 +271,10 @@ Embeddings map discrete tokens to continuous vector representations.
 Microservices decompose applications into independently deployable services.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-03-14 — [DSA] Dijkstra's Algorithm
+**Difficulty:** Advanced
+
+Dijkstra's algorithm uses a priority queue to greedily select the nearest unvisited vertex, relaxing edges to find shortest paths from a source in O((V+E)log V).
+
+🔗 Reference: https://leetcode.com/problems/network-delay-time/

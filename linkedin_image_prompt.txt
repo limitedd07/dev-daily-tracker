@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Dijkstra's Algorithm
+Topic: KMP String Matching
 Domain: DSA
 Style: Minimal, professional, flat illustration.

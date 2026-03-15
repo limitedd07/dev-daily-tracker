@@ -278,3 +278,10 @@ Microservices decompose applications into independently deployable services.
 Dijkstra's algorithm uses a priority queue to greedily select the nearest unvisited vertex, relaxing edges to find shortest paths from a source in O((V+E)log V).
 
 🔗 Reference: https://leetcode.com/problems/network-delay-time/
+
+## 2026-03-15 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

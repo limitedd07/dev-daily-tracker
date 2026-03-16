@@ -285,3 +285,10 @@ Dijkstra's algorithm uses a priority queue to greedily select the nearest unvisi
 Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-03-16 — [AI] Attention Mechanisms
+**Difficulty:** Intermediate
+
+Attention allows models to focus on relevant parts of input sequences.
+
+🔗 Reference: https://arxiv.org/abs/1409.0473

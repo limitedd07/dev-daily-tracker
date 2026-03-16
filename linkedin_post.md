@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Attention Mechanisms** (AI).
 
-Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
+Attention allows models to focus on relevant parts of input sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

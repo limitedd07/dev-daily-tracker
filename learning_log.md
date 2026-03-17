@@ -292,3 +292,10 @@ Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest P
 Attention allows models to focus on relevant parts of input sequences.
 
 🔗 Reference: https://arxiv.org/abs/1409.0473
+
+## 2026-03-17 — [System Design] Consistent Hashing
+**Difficulty:** Advanced
+
+Consistent hashing minimizes key redistribution when nodes change.
+
+🔗 Reference: https://www.toptal.com/big-data/consistent-hashing

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Attention Mechanisms** (AI).
+Today I explored **Consistent Hashing** (System Design).
 
-Attention allows models to focus on relevant parts of input sequences.
+Consistent hashing minimizes key redistribution when nodes change.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

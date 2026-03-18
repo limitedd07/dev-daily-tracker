@@ -299,3 +299,10 @@ Attention allows models to focus on relevant parts of input sequences.
 Consistent hashing minimizes key redistribution when nodes change.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-03-18 — [AI] BERT Pre-training
+**Difficulty:** Advanced
+
+BERT uses masked language modeling and next sentence prediction for pre-training.
+
+🔗 Reference: https://arxiv.org/abs/1810.04805

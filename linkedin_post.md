@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Consistent Hashing** (System Design).
+Today I explored **BERT Pre-training** (AI).
 
-Consistent hashing minimizes key redistribution when nodes change.
+BERT uses masked language modeling and next sentence prediction for pre-training.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

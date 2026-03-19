@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **BERT Pre-training** (AI).
+Today I explored **Bit Manipulation Tricks** (DSA).
 
-BERT uses masked language modeling and next sentence prediction for pre-training.
+Bit manipulation uses bitwise operations for efficient computation.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

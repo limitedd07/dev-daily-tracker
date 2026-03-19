@@ -306,3 +306,10 @@ Consistent hashing minimizes key redistribution when nodes change.
 BERT uses masked language modeling and next sentence prediction for pre-training.
 
 🔗 Reference: https://arxiv.org/abs/1810.04805
+
+## 2026-03-19 — [DSA] Bit Manipulation Tricks
+**Difficulty:** Intermediate
+
+Bit manipulation uses bitwise operations for efficient computation.
+
+🔗 Reference: https://leetcode.com/problems/single-number/

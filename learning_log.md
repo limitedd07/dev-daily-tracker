@@ -313,3 +313,10 @@ BERT uses masked language modeling and next sentence prediction for pre-training
 Bit manipulation uses bitwise operations for efficient computation.
 
 🔗 Reference: https://leetcode.com/problems/single-number/
+
+## 2026-03-20 — [DSA] Bit Manipulation Tricks
+**Difficulty:** Intermediate
+
+Bit manipulation uses bitwise operations for efficient computation.
+
+🔗 Reference: https://leetcode.com/problems/single-number/

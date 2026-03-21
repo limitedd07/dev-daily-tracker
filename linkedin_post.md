@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Bit Manipulation Tricks** (DSA).
+Today I explored **Contrastive Learning** (AI).
 
-Bit manipulation uses bitwise operations for efficient computation.
+Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

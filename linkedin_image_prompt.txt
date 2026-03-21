@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Bit Manipulation Tricks
-Domain: DSA
+Topic: Contrastive Learning
+Domain: AI
 Style: Minimal, professional, flat illustration.

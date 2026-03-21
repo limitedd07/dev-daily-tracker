@@ -320,3 +320,10 @@ Bit manipulation uses bitwise operations for efficient computation.
 Bit manipulation uses bitwise operations for efficient computation.
 
 🔗 Reference: https://leetcode.com/problems/single-number/
+
+## 2026-03-21 — [AI] Contrastive Learning
+**Difficulty:** Intermediate
+
+Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
+
+🔗 Reference: https://arxiv.org/abs/2002.05709

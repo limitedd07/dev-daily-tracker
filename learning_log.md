@@ -327,3 +327,10 @@ Bit manipulation uses bitwise operations for efficient computation.
 Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
 
 🔗 Reference: https://arxiv.org/abs/2002.05709
+
+## 2026-03-22 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

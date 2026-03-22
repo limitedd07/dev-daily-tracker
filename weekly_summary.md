@@ -181,3 +181,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-03-22
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-03-16
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 1 entries
+- AI: 3 entries
+- DSA: 2 entries
+
+**Topics Covered:**
+- [System Design] Consistent Hashing
+- [AI] BERT Pre-training
+- [DSA] Bit Manipulation Tricks
+- [DSA] Bit Manipulation Tricks
+- [AI] Contrastive Learning
+- [AI] Vector Databases
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

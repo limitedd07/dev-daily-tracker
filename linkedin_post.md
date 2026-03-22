@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Contrastive Learning** (AI).
+Today I explored **Vector Databases** (AI).
 
-Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
+Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

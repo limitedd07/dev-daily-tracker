@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Vector Databases** (AI).
+Today I explored **Graph Traversal (BFS/DFS)** (DSA).
 
-Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
+BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

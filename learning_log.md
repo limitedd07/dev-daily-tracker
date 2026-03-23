@@ -334,3 +334,10 @@ Contrastive learning methods like SimCLR learn representations by pulling simila
 Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
 
 🔗 Reference: https://www.pinecone.io/learn/vector-database/
+
+## 2026-03-23 — [DSA] Graph Traversal (BFS/DFS)
+**Difficulty:** Intermediate
+
+BFS explores level-by-level; DFS explores depth-first with backtracking.
+
+🔗 Reference: https://leetcode.com/problems/number-of-islands/

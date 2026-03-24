@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Graph Traversal (BFS/DFS)
-Domain: DSA
+Topic: API Gateway Pattern
+Domain: System Design
 Style: Minimal, professional, flat illustration.

@@ -341,3 +341,10 @@ Vector databases like Pinecone and Weaviate enable semantic search by storing em
 BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 🔗 Reference: https://leetcode.com/problems/number-of-islands/
+
+## 2026-03-24 — [System Design] API Gateway Pattern
+**Difficulty:** Intermediate
+
+API gateways provide a single entry point for client requests.
+
+🔗 Reference: https://microservices.io/patterns/apigateway.html

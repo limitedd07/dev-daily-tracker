@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Graph Traversal (BFS/DFS)** (DSA).
+Today I explored **API Gateway Pattern** (System Design).
 
-BFS explores level-by-level; DFS explores depth-first with backtracking.
+API gateways provide a single entry point for client requests.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

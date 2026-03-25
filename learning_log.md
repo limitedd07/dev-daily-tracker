@@ -348,3 +348,10 @@ BFS explores level-by-level; DFS explores depth-first with backtracking.
 API gateways provide a single entry point for client requests.
 
 🔗 Reference: https://microservices.io/patterns/apigateway.html
+
+## 2026-03-25 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries store strings in a tree for efficient prefix-based operations.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

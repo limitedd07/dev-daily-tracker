@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **API Gateway Pattern** (System Design).
+Today I explored **Trie Data Structure** (DSA).
 
-API gateways provide a single entry point for client requests.
+Tries store strings in a tree for efficient prefix-based operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

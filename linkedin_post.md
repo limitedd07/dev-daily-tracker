@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Trie Data Structure** (DSA).
+Today I explored **BERT Pre-training** (AI).
 
-Tries store strings in a tree for efficient prefix-based operations.
+BERT uses masked language modeling and next sentence prediction for pre-training.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

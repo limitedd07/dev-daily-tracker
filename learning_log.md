@@ -355,3 +355,10 @@ API gateways provide a single entry point for client requests.
 Tries store strings in a tree for efficient prefix-based operations.
 
 🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 2026-03-26 — [AI] BERT Pre-training
+**Difficulty:** Advanced
+
+BERT uses masked language modeling and next sentence prediction for pre-training.
+
+🔗 Reference: https://arxiv.org/abs/1810.04805

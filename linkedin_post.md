@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **BERT Pre-training** (AI).
+Today I explored **Database Sharding** (System Design).
 
-BERT uses masked language modeling and next sentence prediction for pre-training.
+Sharding partitions databases horizontally across multiple servers.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -362,3 +362,10 @@ Tries store strings in a tree for efficient prefix-based operations.
 BERT uses masked language modeling and next sentence prediction for pre-training.
 
 🔗 Reference: https://arxiv.org/abs/1810.04805
+
+## 2026-03-27 — [System Design] Database Sharding
+**Difficulty:** Advanced
+
+Sharding partitions databases horizontally across multiple servers.
+
+🔗 Reference: https://www.mongodb.com/features/database-sharding-explained

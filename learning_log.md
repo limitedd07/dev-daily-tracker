@@ -369,3 +369,10 @@ BERT uses masked language modeling and next sentence prediction for pre-training
 Sharding partitions databases horizontally across multiple servers.
 
 🔗 Reference: https://www.mongodb.com/features/database-sharding-explained
+
+## 2026-03-28 — [AI] Reinforcement Learning Basics
+**Difficulty:** Intermediate
+
+Reinforcement Learning uses Markov Decision Processes where agents learn optimal policies by maximizing cumulative rewards through exploration and exploitation balancing.
+
+🔗 Reference: https://spinningup.openai.com/en/latest/

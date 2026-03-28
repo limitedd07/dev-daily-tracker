@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Sharding** (System Design).
+Today I explored **Reinforcement Learning Basics** (AI).
 
-Sharding partitions databases horizontally across multiple servers.
+Reinforcement Learning uses Markov Decision Processes where agents learn optimal policies by maximizing cumulative rewards through exploration and exploitation balancing.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

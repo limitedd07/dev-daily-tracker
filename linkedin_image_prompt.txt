@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Database Sharding
-Domain: System Design
+Topic: Reinforcement Learning Basics
+Domain: AI
 Style: Minimal, professional, flat illustration.

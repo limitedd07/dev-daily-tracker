@@ -376,3 +376,10 @@ Sharding partitions databases horizontally across multiple servers.
 Reinforcement Learning uses Markov Decision Processes where agents learn optimal policies by maximizing cumulative rewards through exploration and exploitation balancing.
 
 🔗 Reference: https://spinningup.openai.com/en/latest/
+
+## 2026-03-29 — [System Design] Rate Limiting
+**Difficulty:** Intermediate
+
+Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) protect APIs from abuse, using Redis for distributed counters and returning 429 status codes.
+
+🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/

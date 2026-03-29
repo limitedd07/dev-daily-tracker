@@ -211,3 +211,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-03-29
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-03-23
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 3 entries
+- DSA: 1 entries
+- AI: 2 entries
+
+**Topics Covered:**
+- [System Design] API Gateway Pattern
+- [DSA] Trie Data Structure
+- [AI] BERT Pre-training
+- [System Design] Database Sharding
+- [AI] Reinforcement Learning Basics
+- [System Design] Rate Limiting
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

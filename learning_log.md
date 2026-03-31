@@ -390,3 +390,10 @@ Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) prot
 Indexes accelerate database queries by creating searchable data structures.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-03-31 — [System Design] Rate Limiting
+**Difficulty:** Intermediate
+
+Rate limiting controls request rates to prevent abuse and overload.
+
+🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/

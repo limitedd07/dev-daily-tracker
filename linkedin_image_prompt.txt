@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Database Indexing
+Topic: Rate Limiting
 Domain: System Design
 Style: Minimal, professional, flat illustration.

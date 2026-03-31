@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Indexing** (System Design).
+Today I explored **Rate Limiting** (System Design).
 
-Indexes accelerate database queries by creating searchable data structures.
+Rate limiting controls request rates to prevent abuse and overload.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

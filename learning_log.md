@@ -397,3 +397,10 @@ Indexes accelerate database queries by creating searchable data structures.
 Rate limiting controls request rates to prevent abuse and overload.
 
 🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
+
+## 2026-04-01 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

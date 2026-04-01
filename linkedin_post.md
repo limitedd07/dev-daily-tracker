@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Rate Limiting** (System Design).
+Today I explored **Large Language Models (LLMs)** (AI).
 
-Rate limiting controls request rates to prevent abuse and overload.
+LLMs are massive models trained on vast text corpora for language understanding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

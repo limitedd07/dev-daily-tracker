@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Rate Limiting
-Domain: System Design
+Topic: Large Language Models (LLMs)
+Domain: AI
 Style: Minimal, professional, flat illustration.

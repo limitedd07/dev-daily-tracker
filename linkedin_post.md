@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Large Language Models (LLMs)** (AI).
+Today I explored **Consistent Hashing** (System Design).
 
-LLMs are massive models trained on vast text corpora for language understanding.
+Consistent hashing minimizes key redistribution when nodes change.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

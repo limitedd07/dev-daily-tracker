@@ -404,3 +404,10 @@ Rate limiting controls request rates to prevent abuse and overload.
 LLMs are massive models trained on vast text corpora for language understanding.
 
 🔗 Reference: https://openai.com/research/gpt-4
+
+## 2026-04-02 — [System Design] Consistent Hashing
+**Difficulty:** Advanced
+
+Consistent hashing minimizes key redistribution when nodes change.
+
+🔗 Reference: https://www.toptal.com/big-data/consistent-hashing

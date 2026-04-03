@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Consistent Hashing** (System Design).
+Today I explored **Neural Architecture Search (NAS)** (AI).
 
-Consistent hashing minimizes key redistribution when nodes change.
+NAS automates the design of neural network architectures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

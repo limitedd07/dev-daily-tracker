@@ -411,3 +411,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 Consistent hashing minimizes key redistribution when nodes change.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-04-03 — [AI] Neural Architecture Search (NAS)
+**Difficulty:** Advanced
+
+NAS automates the design of neural network architectures.
+
+🔗 Reference: https://arxiv.org/abs/1611.01578

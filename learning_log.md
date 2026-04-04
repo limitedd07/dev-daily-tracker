@@ -418,3 +418,10 @@ Consistent hashing minimizes key redistribution when nodes change.
 NAS automates the design of neural network architectures.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-04-04 — [DSA] Dynamic Programming Patterns
+**Difficulty:** Advanced
+
+Dynamic Programming solves optimization problems by storing solutions to subproblems, using memoization (top-down) or tabulation (bottom-up) to avoid redundant computation.
+
+🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns

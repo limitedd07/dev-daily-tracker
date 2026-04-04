@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Neural Architecture Search (NAS)** (AI).
+Today I explored **Dynamic Programming Patterns** (DSA).
 
-NAS automates the design of neural network architectures.
+Dynamic Programming solves optimization problems by storing solutions to subproblems, using memoization (top-down) or tabulation (bottom-up) to avoid redundant computation.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

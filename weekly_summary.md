@@ -241,3 +241,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-04-05
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-03-30
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 3 entries
+- AI: 2 entries
+- DSA: 1 entries
+
+**Topics Covered:**
+- [System Design] Rate Limiting
+- [AI] Large Language Models (LLMs)
+- [System Design] Consistent Hashing
+- [AI] Neural Architecture Search (NAS)
+- [DSA] Dynamic Programming Patterns
+- [System Design] Event-Driven Architecture
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

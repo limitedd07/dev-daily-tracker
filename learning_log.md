@@ -425,3 +425,10 @@ NAS automates the design of neural network architectures.
 Dynamic Programming solves optimization problems by storing solutions to subproblems, using memoization (top-down) or tabulation (bottom-up) to avoid redundant computation.
 
 🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
+## 2026-04-05 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

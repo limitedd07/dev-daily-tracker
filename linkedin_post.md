@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Dynamic Programming Patterns** (DSA).
+Today I explored **Event-Driven Architecture** (System Design).
 
-Dynamic Programming solves optimization problems by storing solutions to subproblems, using memoization (top-down) or tabulation (bottom-up) to avoid redundant computation.
+Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

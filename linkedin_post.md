@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Event-Driven Architecture** (System Design).
+Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
 
-Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
+BIT supports efficient prefix sum queries and updates.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

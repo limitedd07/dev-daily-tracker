@@ -432,3 +432,10 @@ Dynamic Programming solves optimization problems by storing solutions to subprob
 Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-04-06 — [DSA] Binary Indexed Tree (Fenwick Tree)
+**Difficulty:** Advanced
+
+BIT supports efficient prefix sum queries and updates.
+
+🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/

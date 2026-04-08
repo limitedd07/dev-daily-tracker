@@ -446,3 +446,10 @@ BIT supports efficient prefix sum queries and updates.
 Consistent hashing minimizes key redistribution when nodes change.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-04-08 — [System Design] Consistent Hashing
+**Difficulty:** Advanced
+
+Consistent hashing minimizes key redistribution when nodes change.
+
+🔗 Reference: https://www.toptal.com/big-data/consistent-hashing

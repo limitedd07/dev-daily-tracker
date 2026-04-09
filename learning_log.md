@@ -453,3 +453,10 @@ Consistent hashing minimizes key redistribution when nodes change.
 Consistent hashing minimizes key redistribution when nodes change.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-04-09 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+KMP finds pattern occurrences in O(n+m) using partial match table.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

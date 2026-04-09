@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Consistent Hashing** (System Design).
+Today I explored **KMP String Matching** (DSA).
 
-Consistent hashing minimizes key redistribution when nodes change.
+KMP finds pattern occurrences in O(n+m) using partial match table.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

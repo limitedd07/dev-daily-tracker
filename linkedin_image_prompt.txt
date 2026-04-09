@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Consistent Hashing
-Domain: System Design
+Topic: KMP String Matching
+Domain: DSA
 Style: Minimal, professional, flat illustration.

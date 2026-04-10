@@ -460,3 +460,10 @@ Consistent hashing minimizes key redistribution when nodes change.
 KMP finds pattern occurrences in O(n+m) using partial match table.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-04-10 — [System Design] Horizontal vs Vertical Scaling
+**Difficulty:** Beginner
+
+Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
+
+🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/

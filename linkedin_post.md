@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Horizontal vs Vertical Scaling** (System Design).
 
-KMP finds pattern occurrences in O(n+m) using partial match table.
+Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

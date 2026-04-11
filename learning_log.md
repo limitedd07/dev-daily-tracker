@@ -467,3 +467,10 @@ KMP finds pattern occurrences in O(n+m) using partial match table.
 Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
 
 🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/
+
+## 2026-04-11 — [AI] Neural Architecture Search (NAS)
+**Difficulty:** Advanced
+
+NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
+
+🔗 Reference: https://arxiv.org/abs/1611.01578

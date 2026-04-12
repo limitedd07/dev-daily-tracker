@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Neural Architecture Search (NAS)** (AI).
+Today I explored **Transformer Architecture** (AI).
 
-NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

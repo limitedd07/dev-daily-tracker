@@ -474,3 +474,10 @@ Vertical scaling adds resources to one machine; horizontal scaling adds more mac
 NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-04-12 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

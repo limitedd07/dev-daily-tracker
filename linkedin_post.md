@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Dijkstra's Algorithm** (DSA).
 
-The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+Dijkstra finds shortest paths in weighted graphs with non-negative edges.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

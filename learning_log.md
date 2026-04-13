@@ -481,3 +481,10 @@ NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically
 The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-04-13 — [DSA] Dijkstra's Algorithm
+**Difficulty:** Advanced
+
+Dijkstra finds shortest paths in weighted graphs with non-negative edges.
+
+🔗 Reference: https://leetcode.com/problems/network-delay-time/

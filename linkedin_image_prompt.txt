@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Dijkstra's Algorithm
-Domain: DSA
+Topic: Microservices Architecture
+Domain: System Design
 Style: Minimal, professional, flat illustration.

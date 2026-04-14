@@ -488,3 +488,10 @@ The Transformer architecture revolutionized NLP by replacing recurrence with sel
 Dijkstra finds shortest paths in weighted graphs with non-negative edges.
 
 🔗 Reference: https://leetcode.com/problems/network-delay-time/
+
+## 2026-04-14 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices decompose applications into independently deployable services.
+
+🔗 Reference: https://microservices.io/

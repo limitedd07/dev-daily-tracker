@@ -495,3 +495,10 @@ Dijkstra finds shortest paths in weighted graphs with non-negative edges.
 Microservices decompose applications into independently deployable services.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-04-15 — [DSA] Graph Traversal (BFS/DFS)
+**Difficulty:** Intermediate
+
+BFS explores level-by-level; DFS explores depth-first with backtracking.
+
+🔗 Reference: https://leetcode.com/problems/number-of-islands/

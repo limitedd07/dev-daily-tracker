@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Microservices Architecture** (System Design).
+Today I explored **Graph Traversal (BFS/DFS)** (DSA).
 
-Microservices decompose applications into independently deployable services.
+BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

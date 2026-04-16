@@ -502,3 +502,10 @@ Microservices decompose applications into independently deployable services.
 BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 🔗 Reference: https://leetcode.com/problems/number-of-islands/
+
+## 2026-04-16 — [DSA] Union-Find (Disjoint Set)
+**Difficulty:** Intermediate
+
+Union-Find tracks connected components with near-constant time operations.
+
+🔗 Reference: https://leetcode.com/problems/redundant-connection/

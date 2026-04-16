@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Graph Traversal (BFS/DFS)
+Topic: Union-Find (Disjoint Set)
 Domain: DSA
 Style: Minimal, professional, flat illustration.

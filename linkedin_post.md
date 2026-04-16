@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Graph Traversal (BFS/DFS)** (DSA).
+Today I explored **Union-Find (Disjoint Set)** (DSA).
 
-BFS explores level-by-level; DFS explores depth-first with backtracking.
+Union-Find tracks connected components with near-constant time operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

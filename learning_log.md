@@ -509,3 +509,10 @@ BFS explores level-by-level; DFS explores depth-first with backtracking.
 Union-Find tracks connected components with near-constant time operations.
 
 🔗 Reference: https://leetcode.com/problems/redundant-connection/
+
+## 2026-04-17 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

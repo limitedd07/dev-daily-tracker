@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Union-Find (Disjoint Set)** (DSA).
+Today I explored **Diffusion Models** (AI).
 
-Union-Find tracks connected components with near-constant time operations.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

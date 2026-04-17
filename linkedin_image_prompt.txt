@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Union-Find (Disjoint Set)
-Domain: DSA
+Topic: Diffusion Models
+Domain: AI
 Style: Minimal, professional, flat illustration.

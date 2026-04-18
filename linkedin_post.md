@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Diffusion Models** (AI).
+Today I explored **Sliding Window Technique** (DSA).
 
-Diffusion models generate images by iteratively denoising random noise.
+The sliding window pattern uses two pointers to maintain a dynamic window, expanding and contracting to find optimal subarrays for problems like longest substring or maximum sum.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

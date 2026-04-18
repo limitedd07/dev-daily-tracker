@@ -516,3 +516,10 @@ Union-Find tracks connected components with near-constant time operations.
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-04-18 — [DSA] Sliding Window Technique
+**Difficulty:** Intermediate
+
+The sliding window pattern uses two pointers to maintain a dynamic window, expanding and contracting to find optimal subarrays for problems like longest substring or maximum sum.
+
+🔗 Reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/

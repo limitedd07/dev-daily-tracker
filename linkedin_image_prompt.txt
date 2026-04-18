@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Diffusion Models
-Domain: AI
+Topic: Sliding Window Technique
+Domain: DSA
 Style: Minimal, professional, flat illustration.

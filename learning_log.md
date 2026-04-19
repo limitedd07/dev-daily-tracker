@@ -523,3 +523,10 @@ Diffusion models generate images by iteratively denoising random noise.
 The sliding window pattern uses two pointers to maintain a dynamic window, expanding and contracting to find optimal subarrays for problems like longest substring or maximum sum.
 
 🔗 Reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+## 2026-04-19 — [DSA] Union-Find (Disjoint Set)
+**Difficulty:** Intermediate
+
+Union-Find uses path compression and union by rank to achieve O(α(n)) amortized time for union/find operations, essential for Kruskal's MST and cycle detection.
+
+🔗 Reference: https://leetcode.com/problems/redundant-connection/

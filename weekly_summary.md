@@ -301,3 +301,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-04-19
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-04-13
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 1 entries
+- DSA: 4 entries
+- AI: 1 entries
+
+**Topics Covered:**
+- [System Design] Microservices Architecture
+- [DSA] Graph Traversal (BFS/DFS)
+- [DSA] Union-Find (Disjoint Set)
+- [AI] Diffusion Models
+- [DSA] Sliding Window Technique
+- [DSA] Union-Find (Disjoint Set)
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

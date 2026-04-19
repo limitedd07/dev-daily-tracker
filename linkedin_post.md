@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Sliding Window Technique** (DSA).
+Today I explored **Union-Find (Disjoint Set)** (DSA).
 
-The sliding window pattern uses two pointers to maintain a dynamic window, expanding and contracting to find optimal subarrays for problems like longest substring or maximum sum.
+Union-Find uses path compression and union by rank to achieve O(α(n)) amortized time for union/find operations, essential for Kruskal's MST and cycle detection.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

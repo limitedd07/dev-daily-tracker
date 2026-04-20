@@ -530,3 +530,10 @@ The sliding window pattern uses two pointers to maintain a dynamic window, expan
 Union-Find uses path compression and union by rank to achieve O(α(n)) amortized time for union/find operations, essential for Kruskal's MST and cycle detection.
 
 🔗 Reference: https://leetcode.com/problems/redundant-connection/
+
+## 2026-04-20 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+KMP finds pattern occurrences in O(n+m) using partial match table.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

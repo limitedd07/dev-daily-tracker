@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Union-Find (Disjoint Set)** (DSA).
+Today I explored **KMP String Matching** (DSA).
 
-Union-Find uses path compression and union by rank to achieve O(α(n)) amortized time for union/find operations, essential for Kruskal's MST and cycle detection.
+KMP finds pattern occurrences in O(n+m) using partial match table.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

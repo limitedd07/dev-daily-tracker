@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Topological Sort** (DSA).
 
-KMP finds pattern occurrences in O(n+m) using partial match table.
+Topological sort orders DAG vertices respecting all edge directions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

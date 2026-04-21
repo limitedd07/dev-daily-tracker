@@ -537,3 +537,10 @@ Union-Find uses path compression and union by rank to achieve O(α(n)) amortized
 KMP finds pattern occurrences in O(n+m) using partial match table.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-04-21 — [DSA] Topological Sort
+**Difficulty:** Intermediate
+
+Topological sort orders DAG vertices respecting all edge directions.
+
+🔗 Reference: https://leetcode.com/problems/course-schedule-ii/

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Topological Sort** (DSA).
+Today I explored **Database Sharding** (System Design).
 
-Topological sort orders DAG vertices respecting all edge directions.
+Sharding partitions databases horizontally across multiple servers.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

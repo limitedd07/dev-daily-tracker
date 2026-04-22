@@ -544,3 +544,10 @@ KMP finds pattern occurrences in O(n+m) using partial match table.
 Topological sort orders DAG vertices respecting all edge directions.
 
 🔗 Reference: https://leetcode.com/problems/course-schedule-ii/
+
+## 2026-04-22 — [System Design] Database Sharding
+**Difficulty:** Advanced
+
+Sharding partitions databases horizontally across multiple servers.
+
+🔗 Reference: https://www.mongodb.com/features/database-sharding-explained

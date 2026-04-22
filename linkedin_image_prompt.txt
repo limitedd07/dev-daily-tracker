@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Topological Sort
-Domain: DSA
+Topic: Database Sharding
+Domain: System Design
 Style: Minimal, professional, flat illustration.

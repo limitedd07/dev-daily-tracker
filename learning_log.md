@@ -551,3 +551,10 @@ Topological sort orders DAG vertices respecting all edge directions.
 Sharding partitions databases horizontally across multiple servers.
 
 🔗 Reference: https://www.mongodb.com/features/database-sharding-explained
+
+## 2026-04-23 — [System Design] Content Delivery Networks (CDN)
+**Difficulty:** Beginner
+
+CDNs cache content at edge locations near users for faster delivery.
+
+🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

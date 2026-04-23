@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Sharding** (System Design).
+Today I explored **Content Delivery Networks (CDN)** (System Design).
 
-Sharding partitions databases horizontally across multiple servers.
+CDNs cache content at edge locations near users for faster delivery.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

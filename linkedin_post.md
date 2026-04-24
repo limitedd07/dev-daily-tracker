@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Content Delivery Networks (CDN)** (System Design).
+Today I explored **Contrastive Learning** (AI).
 
-CDNs cache content at edge locations near users for faster delivery.
+Contrastive learning trains models by comparing similar and dissimilar samples.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Content Delivery Networks (CDN)
-Domain: System Design
+Topic: Contrastive Learning
+Domain: AI
 Style: Minimal, professional, flat illustration.

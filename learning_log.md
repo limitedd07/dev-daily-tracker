@@ -558,3 +558,10 @@ Sharding partitions databases horizontally across multiple servers.
 CDNs cache content at edge locations near users for faster delivery.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-04-24 — [AI] Contrastive Learning
+**Difficulty:** Intermediate
+
+Contrastive learning trains models by comparing similar and dissimilar samples.
+
+🔗 Reference: https://arxiv.org/abs/2002.05709

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Contrastive Learning** (AI).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-Contrastive learning trains models by comparing similar and dissimilar samples.
+GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -565,3 +565,10 @@ CDNs cache content at edge locations near users for faster delivery.
 Contrastive learning trains models by comparing similar and dissimilar samples.
 
 🔗 Reference: https://arxiv.org/abs/2002.05709
+
+## 2026-04-25 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

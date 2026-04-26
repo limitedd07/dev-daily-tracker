@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
 
-GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
+Fenwick Trees use clever bit manipulation to store partial sums, enabling O(log n) point updates and prefix sum queries in a space-efficient array structure.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

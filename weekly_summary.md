@@ -331,3 +331,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-04-26
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-04-20
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 2 entries
+- System Design: 2 entries
+- AI: 2 entries
+
+**Topics Covered:**
+- [DSA] Topological Sort
+- [System Design] Database Sharding
+- [System Design] Content Delivery Networks (CDN)
+- [AI] Contrastive Learning
+- [AI] GANs (Generative Adversarial Networks)
+- [DSA] Binary Indexed Tree (Fenwick Tree)
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

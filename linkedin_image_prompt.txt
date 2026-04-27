@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Binary Indexed Tree (Fenwick Tree)
-Domain: DSA
+Topic: Reinforcement Learning Basics
+Domain: AI
 Style: Minimal, professional, flat illustration.

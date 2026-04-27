@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
+Today I explored **Reinforcement Learning Basics** (AI).
 
-Fenwick Trees use clever bit manipulation to store partial sums, enabling O(log n) point updates and prefix sum queries in a space-efficient array structure.
+RL trains agents through trial and error using rewards and penalties.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

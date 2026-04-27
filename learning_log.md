@@ -579,3 +579,10 @@ GANs pit a generator against a discriminator in a minimax game, where the genera
 Fenwick Trees use clever bit manipulation to store partial sums, enabling O(log n) point updates and prefix sum queries in a space-efficient array structure.
 
 🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/
+
+## 2026-04-27 — [AI] Reinforcement Learning Basics
+**Difficulty:** Intermediate
+
+RL trains agents through trial and error using rewards and penalties.
+
+🔗 Reference: https://spinningup.openai.com/en/latest/

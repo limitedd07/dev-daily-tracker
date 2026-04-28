@@ -586,3 +586,10 @@ Fenwick Trees use clever bit manipulation to store partial sums, enabling O(log 
 RL trains agents through trial and error using rewards and penalties.
 
 🔗 Reference: https://spinningup.openai.com/en/latest/
+
+## 2026-04-28 — [System Design] Rate Limiting
+**Difficulty:** Intermediate
+
+Rate limiting controls request rates to prevent abuse and overload.
+
+🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/

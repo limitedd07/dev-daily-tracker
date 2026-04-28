@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Reinforcement Learning Basics** (AI).
+Today I explored **Rate Limiting** (System Design).
 
-RL trains agents through trial and error using rewards and penalties.
+Rate limiting controls request rates to prevent abuse and overload.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

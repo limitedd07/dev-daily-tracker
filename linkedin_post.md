@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Rate Limiting** (System Design).
+Today I explored **Vector Databases** (AI).
 
-Rate limiting controls request rates to prevent abuse and overload.
+Vector databases store and query high-dimensional embeddings efficiently.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

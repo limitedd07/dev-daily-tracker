@@ -593,3 +593,10 @@ RL trains agents through trial and error using rewards and penalties.
 Rate limiting controls request rates to prevent abuse and overload.
 
 🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
+
+## 2026-04-29 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases store and query high-dimensional embeddings efficiently.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

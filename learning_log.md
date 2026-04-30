@@ -600,3 +600,10 @@ Rate limiting controls request rates to prevent abuse and overload.
 Vector databases store and query high-dimensional embeddings efficiently.
 
 🔗 Reference: https://www.pinecone.io/learn/vector-database/
+
+## 2026-04-30 — [DSA] Monotonic Stack/Queue
+**Difficulty:** Intermediate
+
+Monotonic structures maintain sorted order while processing sequences.
+
+🔗 Reference: https://leetcode.com/problems/next-greater-element-i/

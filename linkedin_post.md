@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Vector Databases** (AI).
+Today I explored **Monotonic Stack/Queue** (DSA).
 
-Vector databases store and query high-dimensional embeddings efficiently.
+Monotonic structures maintain sorted order while processing sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

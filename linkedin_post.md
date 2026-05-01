@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Monotonic Stack/Queue** (DSA).
+Today I explored **Contrastive Learning** (AI).
 
-Monotonic structures maintain sorted order while processing sequences.
+Contrastive learning trains models by comparing similar and dissimilar samples.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

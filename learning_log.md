@@ -607,3 +607,10 @@ Vector databases store and query high-dimensional embeddings efficiently.
 Monotonic structures maintain sorted order while processing sequences.
 
 🔗 Reference: https://leetcode.com/problems/next-greater-element-i/
+
+## 2026-05-01 — [AI] Contrastive Learning
+**Difficulty:** Intermediate
+
+Contrastive learning trains models by comparing similar and dissimilar samples.
+
+🔗 Reference: https://arxiv.org/abs/2002.05709

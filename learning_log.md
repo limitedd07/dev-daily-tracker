@@ -614,3 +614,10 @@ Monotonic structures maintain sorted order while processing sequences.
 Contrastive learning trains models by comparing similar and dissimilar samples.
 
 🔗 Reference: https://arxiv.org/abs/2002.05709
+
+## 2026-05-02 — [DSA] Monotonic Stack/Queue
+**Difficulty:** Intermediate
+
+Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
+
+🔗 Reference: https://leetcode.com/problems/next-greater-element-i/

@@ -621,3 +621,10 @@ Contrastive learning trains models by comparing similar and dissimilar samples.
 Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
 
 🔗 Reference: https://leetcode.com/problems/next-greater-element-i/
+
+## 2026-05-03 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

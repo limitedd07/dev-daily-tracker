@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Monotonic Stack/Queue** (DSA).
+Today I explored **Transformer Architecture** (AI).
 
-Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

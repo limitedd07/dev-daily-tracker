@@ -361,3 +361,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-05-03
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-04-27
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 1 entries
+- AI: 3 entries
+- DSA: 2 entries
+
+**Topics Covered:**
+- [System Design] Rate Limiting
+- [AI] Vector Databases
+- [DSA] Monotonic Stack/Queue
+- [AI] Contrastive Learning
+- [DSA] Monotonic Stack/Queue
+- [AI] Transformer Architecture
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

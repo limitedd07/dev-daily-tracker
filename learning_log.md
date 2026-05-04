@@ -628,3 +628,10 @@ Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O
 The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-05-04 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

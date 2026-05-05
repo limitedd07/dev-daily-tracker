@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Diffusion Models** (AI).
+Today I explored **Topological Sort** (DSA).
 
-Diffusion models generate images by iteratively denoising random noise.
+Topological sort orders DAG vertices respecting all edge directions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

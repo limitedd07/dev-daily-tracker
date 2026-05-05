@@ -635,3 +635,10 @@ The Transformer architecture revolutionized NLP by replacing recurrence with sel
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-05-05 — [DSA] Topological Sort
+**Difficulty:** Intermediate
+
+Topological sort orders DAG vertices respecting all edge directions.
+
+🔗 Reference: https://leetcode.com/problems/course-schedule-ii/

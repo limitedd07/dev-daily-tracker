@@ -642,3 +642,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Topological sort orders DAG vertices respecting all edge directions.
 
 🔗 Reference: https://leetcode.com/problems/course-schedule-ii/
+
+## 2026-05-06 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+Transformers use self-attention mechanisms to process sequences in parallel.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

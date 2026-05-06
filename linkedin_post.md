@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Topological Sort** (DSA).
+Today I explored **Transformer Architecture** (AI).
 
-Topological sort orders DAG vertices respecting all edge directions.
+Transformers use self-attention mechanisms to process sequences in parallel.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

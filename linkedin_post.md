@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Neural Architecture Search (NAS)** (AI).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+NAS automates the design of neural network architectures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

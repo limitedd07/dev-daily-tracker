@@ -649,3 +649,10 @@ Topological sort orders DAG vertices respecting all edge directions.
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-05-07 — [AI] Neural Architecture Search (NAS)
+**Difficulty:** Advanced
+
+NAS automates the design of neural network architectures.
+
+🔗 Reference: https://arxiv.org/abs/1611.01578

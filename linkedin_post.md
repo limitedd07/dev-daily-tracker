@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Neural Architecture Search (NAS)** (AI).
+Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
 
-NAS automates the design of neural network architectures.
+RAG improves LLM accuracy by retrieving documents before generation.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

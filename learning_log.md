@@ -656,3 +656,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 NAS automates the design of neural network architectures.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-05-08 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG improves LLM accuracy by retrieving documents before generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/

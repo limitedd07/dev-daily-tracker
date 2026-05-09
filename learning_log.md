@@ -663,3 +663,10 @@ NAS automates the design of neural network architectures.
 RAG improves LLM accuracy by retrieving documents before generation.
 
 🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+## 2026-05-09 — [System Design] Load Balancing Strategies
+**Difficulty:** Intermediate
+
+Load balancers use algorithms (round-robin, least connections, consistent hashing) to distribute requests, improving availability and preventing server overload through health checks.
+
+🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/

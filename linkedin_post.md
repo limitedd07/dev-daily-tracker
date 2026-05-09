@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
+Today I explored **Load Balancing Strategies** (System Design).
 
-RAG improves LLM accuracy by retrieving documents before generation.
+Load balancers use algorithms (round-robin, least connections, consistent hashing) to distribute requests, improving availability and preventing server overload through health checks.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

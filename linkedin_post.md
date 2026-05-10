@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Load Balancing Strategies** (System Design).
+Today I explored **Topological Sort** (DSA).
 
-Load balancers use algorithms (round-robin, least connections, consistent hashing) to distribute requests, improving availability and preventing server overload through health checks.
+Topological sorting uses DFS or Kahn's algorithm (BFS with in-degree) to linearize directed acyclic graphs, crucial for task scheduling and dependency resolution.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

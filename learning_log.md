@@ -670,3 +670,10 @@ RAG improves LLM accuracy by retrieving documents before generation.
 Load balancers use algorithms (round-robin, least connections, consistent hashing) to distribute requests, improving availability and preventing server overload through health checks.
 
 🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/
+
+## 2026-05-10 — [DSA] Topological Sort
+**Difficulty:** Intermediate
+
+Topological sorting uses DFS or Kahn's algorithm (BFS with in-degree) to linearize directed acyclic graphs, crucial for task scheduling and dependency resolution.
+
+🔗 Reference: https://leetcode.com/problems/course-schedule-ii/

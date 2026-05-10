@@ -391,3 +391,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-05-10
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-05-04
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 2 entries
+- AI: 3 entries
+- System Design: 1 entries
+
+**Topics Covered:**
+- [DSA] Topological Sort
+- [AI] Transformer Architecture
+- [AI] Neural Architecture Search (NAS)
+- [AI] Retrieval-Augmented Generation (RAG)
+- [System Design] Load Balancing Strategies
+- [DSA] Topological Sort
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

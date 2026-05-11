@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Topological Sort** (DSA).
+Today I explored **Message Queues** (System Design).
 
-Topological sorting uses DFS or Kahn's algorithm (BFS with in-degree) to linearize directed acyclic graphs, crucial for task scheduling and dependency resolution.
+Message queues decouple services through asynchronous communication.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

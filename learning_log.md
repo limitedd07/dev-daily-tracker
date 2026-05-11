@@ -677,3 +677,10 @@ Load balancers use algorithms (round-robin, least connections, consistent hashin
 Topological sorting uses DFS or Kahn's algorithm (BFS with in-degree) to linearize directed acyclic graphs, crucial for task scheduling and dependency resolution.
 
 🔗 Reference: https://leetcode.com/problems/course-schedule-ii/
+
+## 2026-05-11 — [System Design] Message Queues
+**Difficulty:** Intermediate
+
+Message queues decouple services through asynchronous communication.
+
+🔗 Reference: https://aws.amazon.com/message-queue/

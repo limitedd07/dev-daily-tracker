@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Message Queues
+Topic: Database Indexing
 Domain: System Design
 Style: Minimal, professional, flat illustration.

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Message Queues** (System Design).
+Today I explored **Database Indexing** (System Design).
 
-Message queues decouple services through asynchronous communication.
+Indexes accelerate database queries by creating searchable data structures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

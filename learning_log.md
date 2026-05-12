@@ -684,3 +684,10 @@ Topological sorting uses DFS or Kahn's algorithm (BFS with in-degree) to lineari
 Message queues decouple services through asynchronous communication.
 
 🔗 Reference: https://aws.amazon.com/message-queue/
+
+## 2026-05-12 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+Indexes accelerate database queries by creating searchable data structures.
+
+🔗 Reference: https://use-the-index-luke.com/

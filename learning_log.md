@@ -691,3 +691,10 @@ Message queues decouple services through asynchronous communication.
 Indexes accelerate database queries by creating searchable data structures.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-05-13 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Indexing** (System Design).
+Today I explored **Large Language Models (LLMs)** (AI).
 
-Indexes accelerate database queries by creating searchable data structures.
+LLMs are massive models trained on vast text corpora for language understanding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

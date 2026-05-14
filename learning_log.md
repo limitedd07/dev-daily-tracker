@@ -698,3 +698,10 @@ Indexes accelerate database queries by creating searchable data structures.
 LLMs are massive models trained on vast text corpora for language understanding.
 
 🔗 Reference: https://openai.com/research/gpt-4
+
+## 2026-05-14 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

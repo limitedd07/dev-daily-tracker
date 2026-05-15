@@ -705,3 +705,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 LLMs are massive models trained on vast text corpora for language understanding.
 
 🔗 Reference: https://openai.com/research/gpt-4
+
+## 2026-05-15 — [System Design] Caching Strategies
+**Difficulty:** Intermediate
+
+Caching stores frequently accessed data in fast storage layers.
+
+🔗 Reference: https://redis.io/docs/manual/patterns/caching/

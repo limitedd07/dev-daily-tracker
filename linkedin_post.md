@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Large Language Models (LLMs)** (AI).
+Today I explored **Caching Strategies** (System Design).
 
-LLMs are massive models trained on vast text corpora for language understanding.
+Caching stores frequently accessed data in fast storage layers.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

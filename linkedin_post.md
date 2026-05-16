@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Caching Strategies** (System Design).
+Today I explored **KMP String Matching** (DSA).
 
-Caching stores frequently accessed data in fast storage layers.
+Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

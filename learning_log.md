@@ -712,3 +712,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 Caching stores frequently accessed data in fast storage layers.
 
 🔗 Reference: https://redis.io/docs/manual/patterns/caching/
+
+## 2026-05-16 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

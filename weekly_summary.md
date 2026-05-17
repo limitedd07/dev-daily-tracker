@@ -421,3 +421,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-05-17
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-05-11
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 2 entries
+- AI: 3 entries
+- DSA: 1 entries
+
+**Topics Covered:**
+- [System Design] Database Indexing
+- [AI] Large Language Models (LLMs)
+- [AI] Large Language Models (LLMs)
+- [System Design] Caching Strategies
+- [DSA] KMP String Matching
+- [AI] Retrieval-Augmented Generation (RAG)
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

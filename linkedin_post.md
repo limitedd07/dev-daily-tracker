@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
 
-Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
+RAG combines retrieval systems with language models to ground responses in external knowledge, reducing hallucinations and improving factual accuracy through document-augmented generation.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

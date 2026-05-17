@@ -719,3 +719,10 @@ Caching stores frequently accessed data in fast storage layers.
 Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-05-17 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG combines retrieval systems with language models to ground responses in external knowledge, reducing hallucinations and improving factual accuracy through document-augmented generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/

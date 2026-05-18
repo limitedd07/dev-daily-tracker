@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
+Today I explored **KMP String Matching** (DSA).
 
-RAG combines retrieval systems with language models to ground responses in external knowledge, reducing hallucinations and improving factual accuracy through document-augmented generation.
+KMP finds pattern occurrences in O(n+m) using partial match table.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

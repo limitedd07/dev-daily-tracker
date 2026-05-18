@@ -726,3 +726,10 @@ Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest P
 RAG combines retrieval systems with language models to ground responses in external knowledge, reducing hallucinations and improving factual accuracy through document-augmented generation.
 
 🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+## 2026-05-18 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+KMP finds pattern occurrences in O(n+m) using partial match table.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

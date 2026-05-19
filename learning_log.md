@@ -733,3 +733,10 @@ RAG combines retrieval systems with language models to ground responses in exter
 KMP finds pattern occurrences in O(n+m) using partial match table.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-05-19 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs use two competing networks to generate realistic synthetic data.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

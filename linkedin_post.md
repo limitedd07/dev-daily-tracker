@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-KMP finds pattern occurrences in O(n+m) using partial match table.
+GANs use two competing networks to generate realistic synthetic data.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

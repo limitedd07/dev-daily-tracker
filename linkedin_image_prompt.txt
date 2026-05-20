@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: GANs (Generative Adversarial Networks)
-Domain: AI
+Topic: Binary Search on Answer
+Domain: DSA
 Style: Minimal, professional, flat illustration.

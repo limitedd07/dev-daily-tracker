@@ -740,3 +740,10 @@ KMP finds pattern occurrences in O(n+m) using partial match table.
 GANs use two competing networks to generate realistic synthetic data.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-05-20 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+Binary Search on Answer applies binary search to the solution space.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

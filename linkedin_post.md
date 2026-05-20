@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Binary Search on Answer** (DSA).
 
-GANs use two competing networks to generate realistic synthetic data.
+Binary Search on Answer applies binary search to the solution space.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

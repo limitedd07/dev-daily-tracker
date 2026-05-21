@@ -747,3 +747,10 @@ GANs use two competing networks to generate realistic synthetic data.
 Binary Search on Answer applies binary search to the solution space.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-05-21 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases store and query high-dimensional embeddings efficiently.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

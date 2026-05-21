@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **Vector Databases** (AI).
 
-Binary Search on Answer applies binary search to the solution space.
+Vector databases store and query high-dimensional embeddings efficiently.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

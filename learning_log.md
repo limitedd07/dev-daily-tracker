@@ -754,3 +754,10 @@ Binary Search on Answer applies binary search to the solution space.
 Vector databases store and query high-dimensional embeddings efficiently.
 
 🔗 Reference: https://www.pinecone.io/learn/vector-database/
+
+## 2026-05-22 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG improves LLM accuracy by retrieving documents before generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/

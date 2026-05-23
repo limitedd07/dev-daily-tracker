@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Retrieval-Augmented Generation (RAG)
-Domain: AI
+Topic: Message Queues
+Domain: System Design
 Style: Minimal, professional, flat illustration.

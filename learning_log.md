@@ -761,3 +761,10 @@ Vector databases store and query high-dimensional embeddings efficiently.
 RAG improves LLM accuracy by retrieving documents before generation.
 
 🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+## 2026-05-23 — [System Design] Message Queues
+**Difficulty:** Intermediate
+
+Message queues like RabbitMQ and Kafka buffer messages between producers and consumers, enabling async processing, load leveling, and fault tolerance through durable persistence.
+
+🔗 Reference: https://aws.amazon.com/message-queue/

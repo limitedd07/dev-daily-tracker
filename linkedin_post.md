@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
+Today I explored **Message Queues** (System Design).
 
-RAG improves LLM accuracy by retrieving documents before generation.
+Message queues like RabbitMQ and Kafka buffer messages between producers and consumers, enabling async processing, load leveling, and fault tolerance through durable persistence.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

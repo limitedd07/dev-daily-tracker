@@ -768,3 +768,10 @@ RAG improves LLM accuracy by retrieving documents before generation.
 Message queues like RabbitMQ and Kafka buffer messages between producers and consumers, enabling async processing, load leveling, and fault tolerance through durable persistence.
 
 🔗 Reference: https://aws.amazon.com/message-queue/
+
+## 2026-05-24 — [AI] Contrastive Learning
+**Difficulty:** Intermediate
+
+Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
+
+🔗 Reference: https://arxiv.org/abs/2002.05709

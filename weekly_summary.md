@@ -451,3 +451,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-05-24
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-05-18
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 4 entries
+- DSA: 1 entries
+- System Design: 1 entries
+
+**Topics Covered:**
+- [AI] GANs (Generative Adversarial Networks)
+- [DSA] Binary Search on Answer
+- [AI] Vector Databases
+- [AI] Retrieval-Augmented Generation (RAG)
+- [System Design] Message Queues
+- [AI] Contrastive Learning
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

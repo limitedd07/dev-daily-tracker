@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Message Queues** (System Design).
+Today I explored **Contrastive Learning** (AI).
 
-Message queues like RabbitMQ and Kafka buffer messages between producers and consumers, enabling async processing, load leveling, and fault tolerance through durable persistence.
+Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

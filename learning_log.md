@@ -775,3 +775,10 @@ Message queues like RabbitMQ and Kafka buffer messages between producers and con
 Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
 
 🔗 Reference: https://arxiv.org/abs/2002.05709
+
+## 2026-05-25 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+Transformers use self-attention mechanisms to process sequences in parallel.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

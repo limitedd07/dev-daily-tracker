@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Contrastive Learning** (AI).
+Today I explored **Transformer Architecture** (AI).
 
-Contrastive learning methods like SimCLR learn representations by pulling similar samples closer and pushing dissimilar ones apart in embedding space, enabling effective self-supervised learning.
+Transformers use self-attention mechanisms to process sequences in parallel.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

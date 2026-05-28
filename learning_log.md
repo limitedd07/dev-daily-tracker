@@ -782,3 +782,10 @@ Contrastive learning methods like SimCLR learn representations by pulling simila
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-05-28 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases store and query high-dimensional embeddings efficiently.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

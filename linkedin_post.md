@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Vector Databases** (AI).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+Vector databases store and query high-dimensional embeddings efficiently.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

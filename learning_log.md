@@ -796,3 +796,10 @@ Vector databases store and query high-dimensional embeddings efficiently.
 RAG improves LLM accuracy by retrieving documents before generation.
 
 🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+## 2026-05-30 — [AI] Transfer Learning in NLP
+**Difficulty:** Intermediate
+
+Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
+
+🔗 Reference: https://ruder.io/transfer-learning/

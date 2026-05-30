@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Retrieval-Augmented Generation (RAG)** (AI).
+Today I explored **Transfer Learning in NLP** (AI).
 
-RAG improves LLM accuracy by retrieving documents before generation.
+Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

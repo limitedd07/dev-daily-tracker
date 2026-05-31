@@ -481,3 +481,29 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-05-31
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-05-25
+
+**Total Learning Entries:** 4
+
+**Domain Breakdown:**
+- AI: 4 entries
+
+**Topics Covered:**
+- [AI] Vector Databases
+- [AI] Retrieval-Augmented Generation (RAG)
+- [AI] Transfer Learning in NLP
+- [AI] Fine-tuning vs Prompt Engineering
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

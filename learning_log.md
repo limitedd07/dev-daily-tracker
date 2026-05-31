@@ -803,3 +803,10 @@ RAG improves LLM accuracy by retrieving documents before generation.
 Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
 
 🔗 Reference: https://ruder.io/transfer-learning/
+
+## 2026-05-31 — [AI] Fine-tuning vs Prompt Engineering
+**Difficulty:** Beginner
+
+Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
+
+🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning

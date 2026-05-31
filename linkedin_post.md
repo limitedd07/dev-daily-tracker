@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transfer Learning in NLP** (AI).
+Today I explored **Fine-tuning vs Prompt Engineering** (AI).
 
-Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
+Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

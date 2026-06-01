@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Fine-tuning vs Prompt Engineering** (AI).
+Today I explored **Attention Mechanisms** (AI).
 
-Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
+Attention allows models to focus on relevant parts of input sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

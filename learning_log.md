@@ -810,3 +810,10 @@ Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, 
 Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
 
 🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning
+
+## 2026-06-01 — [AI] Attention Mechanisms
+**Difficulty:** Intermediate
+
+Attention allows models to focus on relevant parts of input sequences.
+
+🔗 Reference: https://arxiv.org/abs/1409.0473

@@ -817,3 +817,10 @@ Fine-tuning updates model weights on task-specific data, while prompt engineerin
 Attention allows models to focus on relevant parts of input sequences.
 
 🔗 Reference: https://arxiv.org/abs/1409.0473
+
+## 2026-06-02 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+KMP finds pattern occurrences in O(n+m) using partial match table.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

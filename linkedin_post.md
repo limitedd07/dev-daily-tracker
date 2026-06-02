@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Attention Mechanisms** (AI).
+Today I explored **KMP String Matching** (DSA).
 
-Attention allows models to focus on relevant parts of input sequences.
+KMP finds pattern occurrences in O(n+m) using partial match table.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

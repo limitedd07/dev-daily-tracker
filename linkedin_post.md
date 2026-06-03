@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Dynamic Programming Patterns** (DSA).
 
-KMP finds pattern occurrences in O(n+m) using partial match table.
+DP breaks problems into overlapping subproblems with optimal substructure.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

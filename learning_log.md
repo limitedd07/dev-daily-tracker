@@ -824,3 +824,10 @@ Attention allows models to focus on relevant parts of input sequences.
 KMP finds pattern occurrences in O(n+m) using partial match table.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-06-03 — [DSA] Dynamic Programming Patterns
+**Difficulty:** Advanced
+
+DP breaks problems into overlapping subproblems with optimal substructure.
+
+🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns

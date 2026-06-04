@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Dynamic Programming Patterns** (DSA).
+Today I explored **Graph Traversal (BFS/DFS)** (DSA).
 
-DP breaks problems into overlapping subproblems with optimal substructure.
+BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

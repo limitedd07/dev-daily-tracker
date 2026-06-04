@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Dynamic Programming Patterns
+Topic: Graph Traversal (BFS/DFS)
 Domain: DSA
 Style: Minimal, professional, flat illustration.

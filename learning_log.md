@@ -831,3 +831,10 @@ KMP finds pattern occurrences in O(n+m) using partial match table.
 DP breaks problems into overlapping subproblems with optimal substructure.
 
 🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
+## 2026-06-04 — [DSA] Graph Traversal (BFS/DFS)
+**Difficulty:** Intermediate
+
+BFS explores level-by-level; DFS explores depth-first with backtracking.
+
+🔗 Reference: https://leetcode.com/problems/number-of-islands/

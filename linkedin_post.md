@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Graph Traversal (BFS/DFS)** (DSA).
+Today I explored **Database Indexing** (System Design).
 
-BFS explores level-by-level; DFS explores depth-first with backtracking.
+Indexes accelerate database queries by creating searchable data structures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

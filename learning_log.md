@@ -838,3 +838,10 @@ DP breaks problems into overlapping subproblems with optimal substructure.
 BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 🔗 Reference: https://leetcode.com/problems/number-of-islands/
+
+## 2026-06-05 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+Indexes accelerate database queries by creating searchable data structures.
+
+🔗 Reference: https://use-the-index-luke.com/

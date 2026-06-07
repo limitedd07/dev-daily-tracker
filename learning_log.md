@@ -852,3 +852,10 @@ Indexes accelerate database queries by creating searchable data structures.
 Consistent hashing maps keys and nodes to a ring, ensuring only K/n keys move when nodes join/leave (vs K keys in naive hashing), critical for distributed caches and databases.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-06-07 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

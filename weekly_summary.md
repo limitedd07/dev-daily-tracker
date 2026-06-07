@@ -507,3 +507,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-06-07
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-06-01
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 4 entries
+- System Design: 2 entries
+
+**Topics Covered:**
+- [DSA] KMP String Matching
+- [DSA] Dynamic Programming Patterns
+- [DSA] Graph Traversal (BFS/DFS)
+- [System Design] Database Indexing
+- [System Design] Consistent Hashing
+- [DSA] KMP String Matching
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

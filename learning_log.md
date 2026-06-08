@@ -859,3 +859,10 @@ Consistent hashing maps keys and nodes to a ring, ensuring only K/n keys move wh
 Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest Prefix Suffix) array, enabling linear time string matching without backtracking.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-06-08 — [System Design] Content Delivery Networks (CDN)
+**Difficulty:** Beginner
+
+CDNs cache content at edge locations near users for faster delivery.
+
+🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

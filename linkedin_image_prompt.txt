@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: KMP String Matching
-Domain: DSA
+Topic: Content Delivery Networks (CDN)
+Domain: System Design
 Style: Minimal, professional, flat illustration.

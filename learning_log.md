@@ -866,3 +866,10 @@ Knuth-Morris-Pratt algorithm preprocesses the pattern to build an LPS (Longest P
 CDNs cache content at edge locations near users for faster delivery.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-06-09 — [DSA] Dynamic Programming Patterns
+**Difficulty:** Advanced
+
+DP breaks problems into overlapping subproblems with optimal substructure.
+
+🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns

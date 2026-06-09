@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Content Delivery Networks (CDN)** (System Design).
+Today I explored **Dynamic Programming Patterns** (DSA).
 
-CDNs cache content at edge locations near users for faster delivery.
+DP breaks problems into overlapping subproblems with optimal substructure.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

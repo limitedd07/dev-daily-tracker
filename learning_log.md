@@ -873,3 +873,10 @@ CDNs cache content at edge locations near users for faster delivery.
 DP breaks problems into overlapping subproblems with optimal substructure.
 
 🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
+## 2026-06-10 — [System Design] API Gateway Pattern
+**Difficulty:** Intermediate
+
+API gateways provide a single entry point for client requests.
+
+🔗 Reference: https://microservices.io/patterns/apigateway.html

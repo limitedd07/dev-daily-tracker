@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Dynamic Programming Patterns** (DSA).
+Today I explored **API Gateway Pattern** (System Design).
 
-DP breaks problems into overlapping subproblems with optimal substructure.
+API gateways provide a single entry point for client requests.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

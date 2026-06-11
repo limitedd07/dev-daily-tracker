@@ -880,3 +880,10 @@ DP breaks problems into overlapping subproblems with optimal substructure.
 API gateways provide a single entry point for client requests.
 
 🔗 Reference: https://microservices.io/patterns/apigateway.html
+
+## 2026-06-11 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven systems communicate through asynchronous event notifications.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

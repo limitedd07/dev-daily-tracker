@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **API Gateway Pattern** (System Design).
+Today I explored **Event-Driven Architecture** (System Design).
 
-API gateways provide a single entry point for client requests.
+Event-driven systems communicate through asynchronous event notifications.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

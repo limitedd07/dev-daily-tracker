@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Event-Driven Architecture** (System Design).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-Event-driven systems communicate through asynchronous event notifications.
+GANs use two competing networks to generate realistic synthetic data.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

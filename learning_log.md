@@ -887,3 +887,10 @@ API gateways provide a single entry point for client requests.
 Event-driven systems communicate through asynchronous event notifications.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-06-12 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs use two competing networks to generate realistic synthetic data.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

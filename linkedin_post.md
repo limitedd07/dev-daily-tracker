@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Embedding Spaces** (AI).
 
-GANs use two competing networks to generate realistic synthetic data.
+Embedding spaces represent words, sentences, or images as vectors where semantic similarity correlates with geometric proximity, enabling mathematical operations on meaning.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

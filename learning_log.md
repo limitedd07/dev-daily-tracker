@@ -894,3 +894,10 @@ Event-driven systems communicate through asynchronous event notifications.
 GANs use two competing networks to generate realistic synthetic data.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-06-13 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embedding spaces represent words, sentences, or images as vectors where semantic similarity correlates with geometric proximity, enabling mathematical operations on meaning.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

@@ -536,3 +536,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-06-14
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-06-08
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 1 entries
+- System Design: 2 entries
+- AI: 3 entries
+
+**Topics Covered:**
+- [DSA] Dynamic Programming Patterns
+- [System Design] API Gateway Pattern
+- [System Design] Event-Driven Architecture
+- [AI] GANs (Generative Adversarial Networks)
+- [AI] Embedding Spaces
+- [AI] Transfer Learning in NLP
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

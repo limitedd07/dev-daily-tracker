@@ -901,3 +901,10 @@ GANs use two competing networks to generate realistic synthetic data.
 Embedding spaces represent words, sentences, or images as vectors where semantic similarity correlates with geometric proximity, enabling mathematical operations on meaning.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-06-14 — [AI] Transfer Learning in NLP
+**Difficulty:** Intermediate
+
+Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
+
+🔗 Reference: https://ruder.io/transfer-learning/

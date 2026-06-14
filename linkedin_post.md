@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Transfer Learning in NLP** (AI).
 
-Embedding spaces represent words, sentences, or images as vectors where semantic similarity correlates with geometric proximity, enabling mathematical operations on meaning.
+Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

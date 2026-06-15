@@ -908,3 +908,10 @@ Embedding spaces represent words, sentences, or images as vectors where semantic
 Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
 
 🔗 Reference: https://ruder.io/transfer-learning/
+
+## 2026-06-15 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+KMP finds pattern occurrences in O(n+m) using partial match table.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

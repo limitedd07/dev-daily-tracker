@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transfer Learning in NLP** (AI).
+Today I explored **KMP String Matching** (DSA).
 
-Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
+KMP finds pattern occurrences in O(n+m) using partial match table.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

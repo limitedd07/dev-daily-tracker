@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Microservices Architecture** (System Design).
 
-KMP finds pattern occurrences in O(n+m) using partial match table.
+Microservices decompose applications into independently deployable services.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

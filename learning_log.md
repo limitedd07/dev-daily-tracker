@@ -915,3 +915,10 @@ Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, 
 KMP finds pattern occurrences in O(n+m) using partial match table.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-06-16 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices decompose applications into independently deployable services.
+
+🔗 Reference: https://microservices.io/

@@ -922,3 +922,10 @@ KMP finds pattern occurrences in O(n+m) using partial match table.
 Microservices decompose applications into independently deployable services.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-06-17 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Microservices Architecture** (System Design).
+Today I explored **Diffusion Models** (AI).
 
-Microservices decompose applications into independently deployable services.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

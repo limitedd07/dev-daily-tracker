@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Diffusion Models
-Domain: AI
+Topic: Database Indexing
+Domain: System Design
 Style: Minimal, professional, flat illustration.

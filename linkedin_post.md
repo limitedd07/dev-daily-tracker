@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Indexing** (System Design).
+Today I explored **API Gateway Pattern** (System Design).
 
-Indexes accelerate database queries by creating searchable data structures.
+API gateways provide a single entry point for client requests.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

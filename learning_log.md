@@ -936,3 +936,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Indexes accelerate database queries by creating searchable data structures.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-06-19 — [System Design] API Gateway Pattern
+**Difficulty:** Intermediate
+
+API gateways provide a single entry point for client requests.
+
+🔗 Reference: https://microservices.io/patterns/apigateway.html

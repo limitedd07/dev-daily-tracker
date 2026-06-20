@@ -943,3 +943,10 @@ Indexes accelerate database queries by creating searchable data structures.
 API gateways provide a single entry point for client requests.
 
 🔗 Reference: https://microservices.io/patterns/apigateway.html
+
+## 2026-06-20 — [System Design] Consistent Hashing
+**Difficulty:** Advanced
+
+Consistent hashing maps keys and nodes to a ring, ensuring only K/n keys move when nodes join/leave (vs K keys in naive hashing), critical for distributed caches and databases.
+
+🔗 Reference: https://www.toptal.com/big-data/consistent-hashing

@@ -566,3 +566,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-06-21
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-06-15
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 5 entries
+- AI: 1 entries
+
+**Topics Covered:**
+- [System Design] Microservices Architecture
+- [AI] Diffusion Models
+- [System Design] Database Indexing
+- [System Design] API Gateway Pattern
+- [System Design] Consistent Hashing
+- [System Design] Horizontal vs Vertical Scaling
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Consistent Hashing
+Topic: Horizontal vs Vertical Scaling
 Domain: System Design
 Style: Minimal, professional, flat illustration.

@@ -950,3 +950,10 @@ API gateways provide a single entry point for client requests.
 Consistent hashing maps keys and nodes to a ring, ensuring only K/n keys move when nodes join/leave (vs K keys in naive hashing), critical for distributed caches and databases.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-06-21 — [System Design] Horizontal vs Vertical Scaling
+**Difficulty:** Beginner
+
+Horizontal scaling (scale-out) adds commodity servers for better fault tolerance and unlimited growth, while vertical scaling (scale-up) has hardware limits but simpler architecture.
+
+🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/

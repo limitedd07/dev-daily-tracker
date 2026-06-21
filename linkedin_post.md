@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Consistent Hashing** (System Design).
+Today I explored **Horizontal vs Vertical Scaling** (System Design).
 
-Consistent hashing maps keys and nodes to a ring, ensuring only K/n keys move when nodes join/leave (vs K keys in naive hashing), critical for distributed caches and databases.
+Horizontal scaling (scale-out) adds commodity servers for better fault tolerance and unlimited growth, while vertical scaling (scale-up) has hardware limits but simpler architecture.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

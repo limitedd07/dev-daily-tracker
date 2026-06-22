@@ -957,3 +957,10 @@ Consistent hashing maps keys and nodes to a ring, ensuring only K/n keys move wh
 Horizontal scaling (scale-out) adds commodity servers for better fault tolerance and unlimited growth, while vertical scaling (scale-up) has hardware limits but simpler architecture.
 
 🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/
+
+## 2026-06-22 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embeddings map discrete tokens to continuous vector representations.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

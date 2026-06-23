@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Segment Trees** (DSA).
 
-Embeddings map discrete tokens to continuous vector representations.
+Segment trees enable efficient range queries and updates.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

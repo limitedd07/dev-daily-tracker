@@ -964,3 +964,10 @@ Horizontal scaling (scale-out) adds commodity servers for better fault tolerance
 Embeddings map discrete tokens to continuous vector representations.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-06-23 — [DSA] Segment Trees
+**Difficulty:** Advanced
+
+Segment trees enable efficient range queries and updates.
+
+🔗 Reference: https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/

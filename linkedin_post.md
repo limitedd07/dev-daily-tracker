@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Segment Trees** (DSA).
+Today I explored **Microservices Architecture** (System Design).
 
-Segment trees enable efficient range queries and updates.
+Microservices decompose applications into independently deployable services.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

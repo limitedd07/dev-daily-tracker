@@ -971,3 +971,10 @@ Embeddings map discrete tokens to continuous vector representations.
 Segment trees enable efficient range queries and updates.
 
 🔗 Reference: https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
+
+## 2026-06-24 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices decompose applications into independently deployable services.
+
+🔗 Reference: https://microservices.io/

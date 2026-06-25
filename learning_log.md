@@ -978,3 +978,10 @@ Segment trees enable efficient range queries and updates.
 Microservices decompose applications into independently deployable services.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-06-25 — [System Design] Caching Strategies
+**Difficulty:** Intermediate
+
+Caching stores frequently accessed data in fast storage layers.
+
+🔗 Reference: https://redis.io/docs/manual/patterns/caching/

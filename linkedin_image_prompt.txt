@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Microservices Architecture
+Topic: Caching Strategies
 Domain: System Design
 Style: Minimal, professional, flat illustration.

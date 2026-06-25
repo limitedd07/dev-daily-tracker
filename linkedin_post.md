@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Microservices Architecture** (System Design).
+Today I explored **Caching Strategies** (System Design).
 
-Microservices decompose applications into independently deployable services.
+Caching stores frequently accessed data in fast storage layers.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

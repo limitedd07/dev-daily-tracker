@@ -985,3 +985,10 @@ Microservices decompose applications into independently deployable services.
 Caching stores frequently accessed data in fast storage layers.
 
 🔗 Reference: https://redis.io/docs/manual/patterns/caching/
+
+## 2026-06-26 — [System Design] Database Sharding
+**Difficulty:** Advanced
+
+Sharding partitions databases horizontally across multiple servers.
+
+🔗 Reference: https://www.mongodb.com/features/database-sharding-explained

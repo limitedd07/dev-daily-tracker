@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Caching Strategies** (System Design).
+Today I explored **Database Sharding** (System Design).
 
-Caching stores frequently accessed data in fast storage layers.
+Sharding partitions databases horizontally across multiple servers.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

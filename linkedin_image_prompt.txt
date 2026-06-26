@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Caching Strategies
+Topic: Database Sharding
 Domain: System Design
 Style: Minimal, professional, flat illustration.

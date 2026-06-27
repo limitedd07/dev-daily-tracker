@@ -992,3 +992,10 @@ Caching stores frequently accessed data in fast storage layers.
 Sharding partitions databases horizontally across multiple servers.
 
 🔗 Reference: https://www.mongodb.com/features/database-sharding-explained
+
+## 2026-06-27 — [System Design] Rate Limiting
+**Difficulty:** Intermediate
+
+Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) protect APIs from abuse, using Redis for distributed counters and returning 429 status codes.
+
+🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/

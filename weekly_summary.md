@@ -595,3 +595,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-06-28
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-06-22
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 2 entries
+- System Design: 4 entries
+
+**Topics Covered:**
+- [DSA] Segment Trees
+- [System Design] Microservices Architecture
+- [System Design] Caching Strategies
+- [System Design] Database Sharding
+- [System Design] Rate Limiting
+- [DSA] Binary Search on Answer
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

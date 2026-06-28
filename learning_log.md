@@ -999,3 +999,10 @@ Sharding partitions databases horizontally across multiple servers.
 Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) protect APIs from abuse, using Redis for distributed counters and returning 429 status codes.
 
 🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
+
+## 2026-06-28 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **Graph Traversal (BFS/DFS)** (DSA).
 
-This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
+BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

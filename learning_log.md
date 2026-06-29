@@ -1006,3 +1006,10 @@ Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) prot
 This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-06-29 — [DSA] Graph Traversal (BFS/DFS)
+**Difficulty:** Intermediate
+
+BFS explores level-by-level; DFS explores depth-first with backtracking.
+
+🔗 Reference: https://leetcode.com/problems/number-of-islands/

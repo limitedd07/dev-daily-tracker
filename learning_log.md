@@ -1013,3 +1013,10 @@ This technique binary searches over possible answers (not array indices) for opt
 BFS explores level-by-level; DFS explores depth-first with backtracking.
 
 🔗 Reference: https://leetcode.com/problems/number-of-islands/
+
+## 2026-06-30 — [DSA] Monotonic Stack/Queue
+**Difficulty:** Intermediate
+
+Monotonic structures maintain sorted order while processing sequences.
+
+🔗 Reference: https://leetcode.com/problems/next-greater-element-i/

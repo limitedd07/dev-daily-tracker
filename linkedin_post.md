@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Graph Traversal (BFS/DFS)** (DSA).
+Today I explored **Monotonic Stack/Queue** (DSA).
 
-BFS explores level-by-level; DFS explores depth-first with backtracking.
+Monotonic structures maintain sorted order while processing sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Monotonic Stack/Queue
+Topic: Topological Sort
 Domain: DSA
 Style: Minimal, professional, flat illustration.

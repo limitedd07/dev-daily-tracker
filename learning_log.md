@@ -1020,3 +1020,10 @@ BFS explores level-by-level; DFS explores depth-first with backtracking.
 Monotonic structures maintain sorted order while processing sequences.
 
 🔗 Reference: https://leetcode.com/problems/next-greater-element-i/
+
+## 2026-07-01 — [DSA] Topological Sort
+**Difficulty:** Intermediate
+
+Topological sort orders DAG vertices respecting all edge directions.
+
+🔗 Reference: https://leetcode.com/problems/course-schedule-ii/

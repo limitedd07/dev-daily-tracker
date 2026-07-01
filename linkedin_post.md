@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Monotonic Stack/Queue** (DSA).
+Today I explored **Topological Sort** (DSA).
 
-Monotonic structures maintain sorted order while processing sequences.
+Topological sort orders DAG vertices respecting all edge directions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

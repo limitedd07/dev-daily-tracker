@@ -1027,3 +1027,10 @@ Monotonic structures maintain sorted order while processing sequences.
 Topological sort orders DAG vertices respecting all edge directions.
 
 🔗 Reference: https://leetcode.com/problems/course-schedule-ii/
+
+## 2026-07-02 — [System Design] CAP Theorem
+**Difficulty:** Advanced
+
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
+
+🔗 Reference: https://www.ibm.com/topics/cap-theorem

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **CAP Theorem** (System Design).
+Today I explored **Circuit Breaker Pattern** (System Design).
 
-CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
+Circuit breakers prevent cascading failures by stopping calls to failing services.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

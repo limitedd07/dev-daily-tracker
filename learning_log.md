@@ -1034,3 +1034,10 @@ Topological sort orders DAG vertices respecting all edge directions.
 CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-07-03 — [System Design] Circuit Breaker Pattern
+**Difficulty:** Advanced
+
+Circuit breakers prevent cascading failures by stopping calls to failing services.
+
+🔗 Reference: https://martinfowler.com/bliki/CircuitBreaker.html

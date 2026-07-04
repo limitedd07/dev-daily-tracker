@@ -1041,3 +1041,10 @@ CAP theorem states distributed systems can't guarantee all three: Consistency, A
 Circuit breakers prevent cascading failures by stopping calls to failing services.
 
 🔗 Reference: https://martinfowler.com/bliki/CircuitBreaker.html
+
+## 2026-07-04 — [System Design] CAP Theorem
+**Difficulty:** Advanced
+
+CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
+
+🔗 Reference: https://www.ibm.com/topics/cap-theorem

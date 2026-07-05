@@ -1048,3 +1048,10 @@ Circuit breakers prevent cascading failures by stopping calls to failing service
 CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-07-05 — [System Design] Content Delivery Networks (CDN)
+**Difficulty:** Beginner
+
+CDNs like Cloudflare distribute static assets globally, reducing latency through geographic proximity, offloading origin servers, and providing DDoS protection.
+
+🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

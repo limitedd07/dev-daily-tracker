@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **CAP Theorem** (System Design).
+Today I explored **Content Delivery Networks (CDN)** (System Design).
 
-CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
+CDNs like Cloudflare distribute static assets globally, reducing latency through geographic proximity, offloading origin servers, and providing DDoS protection.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1055,3 +1055,10 @@ CAP theorem proves distributed databases must choose two of three guarantees dur
 CDNs like Cloudflare distribute static assets globally, reducing latency through geographic proximity, offloading origin servers, and providing DDoS protection.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-07-06 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases store and query high-dimensional embeddings efficiently.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

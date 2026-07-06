@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Content Delivery Networks (CDN)** (System Design).
+Today I explored **Vector Databases** (AI).
 
-CDNs like Cloudflare distribute static assets globally, reducing latency through geographic proximity, offloading origin servers, and providing DDoS protection.
+Vector databases store and query high-dimensional embeddings efficiently.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

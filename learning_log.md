@@ -1062,3 +1062,10 @@ CDNs like Cloudflare distribute static assets globally, reducing latency through
 Vector databases store and query high-dimensional embeddings efficiently.
 
 🔗 Reference: https://www.pinecone.io/learn/vector-database/
+
+## 2026-07-07 — [DSA] Two Pointers Technique
+**Difficulty:** Beginner
+
+Two pointers traverse arrays/strings from different positions simultaneously.
+
+🔗 Reference: https://leetcode.com/problems/container-with-most-water/

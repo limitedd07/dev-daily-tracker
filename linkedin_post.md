@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Vector Databases** (AI).
+Today I explored **Two Pointers Technique** (DSA).
 
-Vector databases store and query high-dimensional embeddings efficiently.
+Two pointers traverse arrays/strings from different positions simultaneously.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

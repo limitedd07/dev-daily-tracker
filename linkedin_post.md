@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Two Pointers Technique** (DSA).
+Today I explored **Large Language Models (LLMs)** (AI).
 
-Two pointers traverse arrays/strings from different positions simultaneously.
+LLMs are massive models trained on vast text corpora for language understanding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

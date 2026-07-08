@@ -1069,3 +1069,10 @@ Vector databases store and query high-dimensional embeddings efficiently.
 Two pointers traverse arrays/strings from different positions simultaneously.
 
 🔗 Reference: https://leetcode.com/problems/container-with-most-water/
+
+## 2026-07-08 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

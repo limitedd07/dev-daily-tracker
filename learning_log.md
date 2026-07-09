@@ -1076,3 +1076,10 @@ Two pointers traverse arrays/strings from different positions simultaneously.
 LLMs are massive models trained on vast text corpora for language understanding.
 
 🔗 Reference: https://openai.com/research/gpt-4
+
+## 2026-07-09 — [DSA] Union-Find (Disjoint Set)
+**Difficulty:** Intermediate
+
+Union-Find tracks connected components with near-constant time operations.
+
+🔗 Reference: https://leetcode.com/problems/redundant-connection/

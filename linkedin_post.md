@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Large Language Models (LLMs)** (AI).
+Today I explored **Union-Find (Disjoint Set)** (DSA).
 
-LLMs are massive models trained on vast text corpora for language understanding.
+Union-Find tracks connected components with near-constant time operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

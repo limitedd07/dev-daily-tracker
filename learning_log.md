@@ -1083,3 +1083,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 Union-Find tracks connected components with near-constant time operations.
 
 🔗 Reference: https://leetcode.com/problems/redundant-connection/
+
+## 2026-07-10 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven systems communicate through asynchronous event notifications.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

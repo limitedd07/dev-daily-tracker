@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Union-Find (Disjoint Set)** (DSA).
+Today I explored **Event-Driven Architecture** (System Design).
 
-Union-Find tracks connected components with near-constant time operations.
+Event-driven systems communicate through asynchronous event notifications.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

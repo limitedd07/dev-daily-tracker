@@ -1090,3 +1090,10 @@ Union-Find tracks connected components with near-constant time operations.
 Event-driven systems communicate through asynchronous event notifications.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-07-11 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices architecture enables scalability and team autonomy but introduces complexity in service discovery, distributed transactions, data consistency, and inter-service communication.
+
+🔗 Reference: https://microservices.io/

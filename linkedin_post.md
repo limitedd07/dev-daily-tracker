@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Event-Driven Architecture** (System Design).
+Today I explored **Microservices Architecture** (System Design).
 
-Event-driven systems communicate through asynchronous event notifications.
+Microservices architecture enables scalability and team autonomy but introduces complexity in service discovery, distributed transactions, data consistency, and inter-service communication.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

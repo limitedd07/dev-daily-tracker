@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Microservices Architecture** (System Design).
+Today I explored **Reinforcement Learning Basics** (AI).
 
-Microservices architecture enables scalability and team autonomy but introduces complexity in service discovery, distributed transactions, data consistency, and inter-service communication.
+Reinforcement Learning uses Markov Decision Processes where agents learn optimal policies by maximizing cumulative rewards through exploration and exploitation balancing.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

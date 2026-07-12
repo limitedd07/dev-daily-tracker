@@ -653,3 +653,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-07-12
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-07-06
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 2 entries
+- AI: 2 entries
+- System Design: 2 entries
+
+**Topics Covered:**
+- [DSA] Two Pointers Technique
+- [AI] Large Language Models (LLMs)
+- [DSA] Union-Find (Disjoint Set)
+- [System Design] Event-Driven Architecture
+- [System Design] Microservices Architecture
+- [AI] Reinforcement Learning Basics
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

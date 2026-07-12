@@ -1097,3 +1097,10 @@ Event-driven systems communicate through asynchronous event notifications.
 Microservices architecture enables scalability and team autonomy but introduces complexity in service discovery, distributed transactions, data consistency, and inter-service communication.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-07-12 — [AI] Reinforcement Learning Basics
+**Difficulty:** Intermediate
+
+Reinforcement Learning uses Markov Decision Processes where agents learn optimal policies by maximizing cumulative rewards through exploration and exploitation balancing.
+
+🔗 Reference: https://spinningup.openai.com/en/latest/

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Reinforcement Learning Basics** (AI).
+Today I explored **Trie Data Structure** (DSA).
 
-Reinforcement Learning uses Markov Decision Processes where agents learn optimal policies by maximizing cumulative rewards through exploration and exploitation balancing.
+Tries store strings in a tree for efficient prefix-based operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

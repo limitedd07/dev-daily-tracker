@@ -1104,3 +1104,10 @@ Microservices architecture enables scalability and team autonomy but introduces 
 Reinforcement Learning uses Markov Decision Processes where agents learn optimal policies by maximizing cumulative rewards through exploration and exploitation balancing.
 
 🔗 Reference: https://spinningup.openai.com/en/latest/
+
+## 2026-07-13 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries store strings in a tree for efficient prefix-based operations.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

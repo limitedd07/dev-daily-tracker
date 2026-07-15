@@ -1118,3 +1118,10 @@ Tries store strings in a tree for efficient prefix-based operations.
 BERT uses masked language modeling and next sentence prediction for pre-training.
 
 🔗 Reference: https://arxiv.org/abs/1810.04805
+
+## 2026-07-15 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

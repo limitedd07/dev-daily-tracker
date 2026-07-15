@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **BERT Pre-training** (AI).
+Today I explored **Diffusion Models** (AI).
 
-BERT uses masked language modeling and next sentence prediction for pre-training.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

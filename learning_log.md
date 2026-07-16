@@ -1125,3 +1125,10 @@ BERT uses masked language modeling and next sentence prediction for pre-training
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-07-16 — [DSA] Dynamic Programming Patterns
+**Difficulty:** Advanced
+
+DP breaks problems into overlapping subproblems with optimal substructure.
+
+🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Diffusion Models** (AI).
+Today I explored **Dynamic Programming Patterns** (DSA).
 
-Diffusion models generate images by iteratively denoising random noise.
+DP breaks problems into overlapping subproblems with optimal substructure.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

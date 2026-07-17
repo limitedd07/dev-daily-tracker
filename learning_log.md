@@ -1132,3 +1132,10 @@ Diffusion models generate images by iteratively denoising random noise.
 DP breaks problems into overlapping subproblems with optimal substructure.
 
 🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
+## 2026-07-17 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries store strings in a tree for efficient prefix-based operations.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

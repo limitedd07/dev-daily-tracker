@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Dynamic Programming Patterns** (DSA).
+Today I explored **Trie Data Structure** (DSA).
 
-DP breaks problems into overlapping subproblems with optimal substructure.
+Tries store strings in a tree for efficient prefix-based operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

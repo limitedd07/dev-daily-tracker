@@ -1139,3 +1139,10 @@ DP breaks problems into overlapping subproblems with optimal substructure.
 Tries store strings in a tree for efficient prefix-based operations.
 
 🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 2026-07-18 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

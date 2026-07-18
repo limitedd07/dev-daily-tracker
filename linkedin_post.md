@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Trie Data Structure** (DSA).
+Today I explored **Binary Search on Answer** (DSA).
 
-Tries store strings in a tree for efficient prefix-based operations.
+This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

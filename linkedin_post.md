@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **Backtracking** (DSA).
 
-This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
+Backtracking builds solutions piece-by-piece, abandoning invalid paths (pruning) to solve constraint satisfaction problems like N-Queens, Sudoku, and permutations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

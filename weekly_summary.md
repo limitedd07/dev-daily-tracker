@@ -683,3 +683,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-07-19
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-07-13
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 2 entries
+- DSA: 4 entries
+
+**Topics Covered:**
+- [AI] BERT Pre-training
+- [AI] Diffusion Models
+- [DSA] Dynamic Programming Patterns
+- [DSA] Trie Data Structure
+- [DSA] Binary Search on Answer
+- [DSA] Backtracking
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

@@ -1146,3 +1146,10 @@ Tries store strings in a tree for efficient prefix-based operations.
 This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-07-19 — [DSA] Backtracking
+**Difficulty:** Intermediate
+
+Backtracking builds solutions piece-by-piece, abandoning invalid paths (pruning) to solve constraint satisfaction problems like N-Queens, Sudoku, and permutations.
+
+🔗 Reference: https://leetcode.com/problems/n-queens/

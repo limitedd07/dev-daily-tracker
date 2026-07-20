@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Backtracking** (DSA).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-Backtracking builds solutions piece-by-piece, abandoning invalid paths (pruning) to solve constraint satisfaction problems like N-Queens, Sudoku, and permutations.
+GANs use two competing networks to generate realistic synthetic data.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

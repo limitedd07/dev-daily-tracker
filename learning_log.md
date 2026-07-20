@@ -1153,3 +1153,10 @@ This technique binary searches over possible answers (not array indices) for opt
 Backtracking builds solutions piece-by-piece, abandoning invalid paths (pruning) to solve constraint satisfaction problems like N-Queens, Sudoku, and permutations.
 
 🔗 Reference: https://leetcode.com/problems/n-queens/
+
+## 2026-07-20 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs use two competing networks to generate realistic synthetic data.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

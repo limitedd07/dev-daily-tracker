@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **CAP Theorem** (System Design).
 
-GANs use two competing networks to generate realistic synthetic data.
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

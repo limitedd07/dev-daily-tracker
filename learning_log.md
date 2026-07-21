@@ -1160,3 +1160,10 @@ Backtracking builds solutions piece-by-piece, abandoning invalid paths (pruning)
 GANs use two competing networks to generate realistic synthetic data.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-07-21 — [System Design] CAP Theorem
+**Difficulty:** Advanced
+
+CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
+
+🔗 Reference: https://www.ibm.com/topics/cap-theorem

@@ -1167,3 +1167,10 @@ GANs use two competing networks to generate realistic synthetic data.
 CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-07-22 — [System Design] Database Replication
+**Difficulty:** Intermediate
+
+Replication copies data across multiple database instances for availability.
+
+🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html

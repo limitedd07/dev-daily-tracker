@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **CAP Theorem** (System Design).
+Today I explored **Database Replication** (System Design).
 
-CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
+Replication copies data across multiple database instances for availability.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

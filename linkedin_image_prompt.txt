@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: CAP Theorem
+Topic: Database Replication
 Domain: System Design
 Style: Minimal, professional, flat illustration.

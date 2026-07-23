@@ -1174,3 +1174,10 @@ CAP theorem states distributed systems can't guarantee all three: Consistency, A
 Replication copies data across multiple database instances for availability.
 
 🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html
+
+## 2026-07-23 — [System Design] Message Queues
+**Difficulty:** Intermediate
+
+Message queues decouple services through asynchronous communication.
+
+🔗 Reference: https://aws.amazon.com/message-queue/

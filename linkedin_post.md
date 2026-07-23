@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Replication** (System Design).
+Today I explored **Message Queues** (System Design).
 
-Replication copies data across multiple database instances for availability.
+Message queues decouple services through asynchronous communication.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

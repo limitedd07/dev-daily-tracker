@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Message Queues** (System Design).
+Today I explored **KMP String Matching** (DSA).
 
-Message queues decouple services through asynchronous communication.
+KMP finds pattern occurrences in O(n+m) using partial match table.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

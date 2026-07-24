@@ -1181,3 +1181,10 @@ Replication copies data across multiple database instances for availability.
 Message queues decouple services through asynchronous communication.
 
 🔗 Reference: https://aws.amazon.com/message-queue/
+
+## 2026-07-24 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+KMP finds pattern occurrences in O(n+m) using partial match table.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

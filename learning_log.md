@@ -1188,3 +1188,10 @@ Message queues decouple services through asynchronous communication.
 KMP finds pattern occurrences in O(n+m) using partial match table.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-07-25 — [System Design] Database Replication
+**Difficulty:** Intermediate
+
+Master-slave replication scales reads and provides failover, while multi-master enables writes at multiple nodes with conflict resolution strategies for eventual consistency.
+
+🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html

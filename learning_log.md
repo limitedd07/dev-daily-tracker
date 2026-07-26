@@ -1195,3 +1195,10 @@ KMP finds pattern occurrences in O(n+m) using partial match table.
 Master-slave replication scales reads and provides failover, while multi-master enables writes at multiple nodes with conflict resolution strategies for eventual consistency.
 
 🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html
+
+## 2026-07-26 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

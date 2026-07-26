@@ -712,3 +712,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-07-26
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-07-20
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 4 entries
+- DSA: 1 entries
+- AI: 1 entries
+
+**Topics Covered:**
+- [System Design] CAP Theorem
+- [System Design] Database Replication
+- [System Design] Message Queues
+- [DSA] KMP String Matching
+- [System Design] Database Replication
+- [AI] Vector Databases
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

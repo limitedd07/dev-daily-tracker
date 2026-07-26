@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Replication** (System Design).
+Today I explored **Vector Databases** (AI).
 
-Master-slave replication scales reads and provides failover, while multi-master enables writes at multiple nodes with conflict resolution strategies for eventual consistency.
+Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

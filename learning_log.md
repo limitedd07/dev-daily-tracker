@@ -1202,3 +1202,10 @@ Master-slave replication scales reads and provides failover, while multi-master 
 Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
 
 🔗 Reference: https://www.pinecone.io/learn/vector-database/
+
+## 2026-07-27 — [DSA] Bit Manipulation Tricks
+**Difficulty:** Intermediate
+
+Bit manipulation uses bitwise operations for efficient computation.
+
+🔗 Reference: https://leetcode.com/problems/single-number/

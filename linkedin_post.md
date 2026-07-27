@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Vector Databases** (AI).
+Today I explored **Bit Manipulation Tricks** (DSA).
 
-Vector databases like Pinecone and Weaviate enable semantic search by storing embeddings and performing fast approximate nearest neighbor searches using indexes like HNSW.
+Bit manipulation uses bitwise operations for efficient computation.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

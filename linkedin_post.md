@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Bit Manipulation Tricks** (DSA).
+Today I explored **Fine-tuning vs Prompt Engineering** (AI).
 
-Bit manipulation uses bitwise operations for efficient computation.
+Fine-tuning adapts models through training; prompting guides through instructions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

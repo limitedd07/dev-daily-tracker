@@ -1209,3 +1209,10 @@ Vector databases like Pinecone and Weaviate enable semantic search by storing em
 Bit manipulation uses bitwise operations for efficient computation.
 
 🔗 Reference: https://leetcode.com/problems/single-number/
+
+## 2026-07-28 — [AI] Fine-tuning vs Prompt Engineering
+**Difficulty:** Beginner
+
+Fine-tuning adapts models through training; prompting guides through instructions.
+
+🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning

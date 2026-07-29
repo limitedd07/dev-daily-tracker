@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Fine-tuning vs Prompt Engineering** (AI).
+Today I explored **Segment Trees** (DSA).
 
-Fine-tuning adapts models through training; prompting guides through instructions.
+Segment trees enable efficient range queries and updates.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

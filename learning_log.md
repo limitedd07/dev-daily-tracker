@@ -1216,3 +1216,10 @@ Bit manipulation uses bitwise operations for efficient computation.
 Fine-tuning adapts models through training; prompting guides through instructions.
 
 🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning
+
+## 2026-07-29 — [DSA] Segment Trees
+**Difficulty:** Advanced
+
+Segment trees enable efficient range queries and updates.
+
+🔗 Reference: https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/

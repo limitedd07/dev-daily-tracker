@@ -1223,3 +1223,10 @@ Fine-tuning adapts models through training; prompting guides through instruction
 Segment trees enable efficient range queries and updates.
 
 🔗 Reference: https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
+
+## 2026-07-30 — [System Design] Consistent Hashing
+**Difficulty:** Advanced
+
+Consistent hashing minimizes key redistribution when nodes change.
+
+🔗 Reference: https://www.toptal.com/big-data/consistent-hashing

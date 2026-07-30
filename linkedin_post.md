@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Segment Trees** (DSA).
+Today I explored **Consistent Hashing** (System Design).
 
-Segment trees enable efficient range queries and updates.
+Consistent hashing minimizes key redistribution when nodes change.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Segment Trees
-Domain: DSA
+Topic: Consistent Hashing
+Domain: System Design
 Style: Minimal, professional, flat illustration.

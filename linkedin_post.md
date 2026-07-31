@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Consistent Hashing** (System Design).
+Today I explored **Reinforcement Learning Basics** (AI).
 
-Consistent hashing minimizes key redistribution when nodes change.
+RL trains agents through trial and error using rewards and penalties.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

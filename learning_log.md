@@ -1230,3 +1230,10 @@ Segment trees enable efficient range queries and updates.
 Consistent hashing minimizes key redistribution when nodes change.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-07-31 — [AI] Reinforcement Learning Basics
+**Difficulty:** Intermediate
+
+RL trains agents through trial and error using rewards and penalties.
+
+🔗 Reference: https://spinningup.openai.com/en/latest/

@@ -1237,3 +1237,10 @@ Consistent hashing minimizes key redistribution when nodes change.
 RL trains agents through trial and error using rewards and penalties.
 
 🔗 Reference: https://spinningup.openai.com/en/latest/
+
+## 2026-08-01 — [System Design] API Gateway Pattern
+**Difficulty:** Intermediate
+
+API gateways handle authentication, rate limiting, request routing, and protocol translation, abstracting backend complexity while providing monitoring and analytics.
+
+🔗 Reference: https://microservices.io/patterns/apigateway.html

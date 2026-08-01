@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Reinforcement Learning Basics** (AI).
+Today I explored **API Gateway Pattern** (System Design).
 
-RL trains agents through trial and error using rewards and penalties.
+API gateways handle authentication, rate limiting, request routing, and protocol translation, abstracting backend complexity while providing monitoring and analytics.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

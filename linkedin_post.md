@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **API Gateway Pattern** (System Design).
+Today I explored **Attention Mechanisms** (AI).
 
-API gateways handle authentication, rate limiting, request routing, and protocol translation, abstracting backend complexity while providing monitoring and analytics.
+Attention mechanisms compute weighted combinations of inputs based on learned relevance scores, enabling models to dynamically focus on important context across long sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

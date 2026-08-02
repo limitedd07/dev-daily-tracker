@@ -742,3 +742,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-08-02
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-07-27
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 3 entries
+- DSA: 1 entries
+- System Design: 2 entries
+
+**Topics Covered:**
+- [AI] Fine-tuning vs Prompt Engineering
+- [DSA] Segment Trees
+- [System Design] Consistent Hashing
+- [AI] Reinforcement Learning Basics
+- [System Design] API Gateway Pattern
+- [AI] Attention Mechanisms
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

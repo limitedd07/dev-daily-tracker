@@ -1244,3 +1244,10 @@ RL trains agents through trial and error using rewards and penalties.
 API gateways handle authentication, rate limiting, request routing, and protocol translation, abstracting backend complexity while providing monitoring and analytics.
 
 🔗 Reference: https://microservices.io/patterns/apigateway.html
+
+## 2026-08-02 — [AI] Attention Mechanisms
+**Difficulty:** Intermediate
+
+Attention mechanisms compute weighted combinations of inputs based on learned relevance scores, enabling models to dynamically focus on important context across long sequences.
+
+🔗 Reference: https://arxiv.org/abs/1409.0473

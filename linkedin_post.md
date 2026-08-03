@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Attention Mechanisms** (AI).
+Today I explored **Diffusion Models** (AI).
 
-Attention mechanisms compute weighted combinations of inputs based on learned relevance scores, enabling models to dynamically focus on important context across long sequences.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

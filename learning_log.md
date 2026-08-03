@@ -1251,3 +1251,10 @@ API gateways handle authentication, rate limiting, request routing, and protocol
 Attention mechanisms compute weighted combinations of inputs based on learned relevance scores, enabling models to dynamically focus on important context across long sequences.
 
 🔗 Reference: https://arxiv.org/abs/1409.0473
+
+## 2026-08-03 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

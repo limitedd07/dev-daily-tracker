@@ -1258,3 +1258,10 @@ Attention mechanisms compute weighted combinations of inputs based on learned re
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-08-04 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG improves LLM accuracy by retrieving documents before generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/

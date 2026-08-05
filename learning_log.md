@@ -1265,3 +1265,10 @@ Diffusion models generate images by iteratively denoising random noise.
 RAG improves LLM accuracy by retrieving documents before generation.
 
 🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+## 2026-08-05 — [System Design] API Gateway Pattern
+**Difficulty:** Intermediate
+
+API gateways provide a single entry point for client requests.
+
+🔗 Reference: https://microservices.io/patterns/apigateway.html

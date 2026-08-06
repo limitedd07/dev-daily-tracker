@@ -1272,3 +1272,10 @@ RAG improves LLM accuracy by retrieving documents before generation.
 API gateways provide a single entry point for client requests.
 
 🔗 Reference: https://microservices.io/patterns/apigateway.html
+
+## 2026-08-06 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries store strings in a tree for efficient prefix-based operations.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

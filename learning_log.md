@@ -1279,3 +1279,10 @@ API gateways provide a single entry point for client requests.
 Tries store strings in a tree for efficient prefix-based operations.
 
 🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 2026-08-07 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs use two competing networks to generate realistic synthetic data.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

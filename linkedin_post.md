@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Trie Data Structure** (DSA).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-Tries store strings in a tree for efficient prefix-based operations.
+GANs use two competing networks to generate realistic synthetic data.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

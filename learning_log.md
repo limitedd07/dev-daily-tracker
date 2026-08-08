@@ -1286,3 +1286,10 @@ Tries store strings in a tree for efficient prefix-based operations.
 GANs use two competing networks to generate realistic synthetic data.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-08-08 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+B-tree and hash indexes trade write performance for read speed, requiring careful selection based on query patterns to avoid index bloat and maintain optimal query plans.
+
+🔗 Reference: https://use-the-index-luke.com/

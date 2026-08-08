@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Database Indexing** (System Design).
 
-GANs use two competing networks to generate realistic synthetic data.
+B-tree and hash indexes trade write performance for read speed, requiring careful selection based on query patterns to avoid index bloat and maintain optimal query plans.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

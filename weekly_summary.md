@@ -772,3 +772,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-08-09
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-08-03
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 3 entries
+- System Design: 2 entries
+- DSA: 1 entries
+
+**Topics Covered:**
+- [AI] Retrieval-Augmented Generation (RAG)
+- [System Design] API Gateway Pattern
+- [DSA] Trie Data Structure
+- [AI] GANs (Generative Adversarial Networks)
+- [System Design] Database Indexing
+- [AI] Embedding Spaces
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

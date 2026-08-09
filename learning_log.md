@@ -1293,3 +1293,10 @@ GANs use two competing networks to generate realistic synthetic data.
 B-tree and hash indexes trade write performance for read speed, requiring careful selection based on query patterns to avoid index bloat and maintain optimal query plans.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-08-09 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embedding spaces represent words, sentences, or images as vectors where semantic similarity correlates with geometric proximity, enabling mathematical operations on meaning.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

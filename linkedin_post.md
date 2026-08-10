@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Binary Search on Answer** (DSA).
 
-Embedding spaces represent words, sentences, or images as vectors where semantic similarity correlates with geometric proximity, enabling mathematical operations on meaning.
+Binary Search on Answer applies binary search to the solution space.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

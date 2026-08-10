@@ -1300,3 +1300,10 @@ B-tree and hash indexes trade write performance for read speed, requiring carefu
 Embedding spaces represent words, sentences, or images as vectors where semantic similarity correlates with geometric proximity, enabling mathematical operations on meaning.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-08-10 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+Binary Search on Answer applies binary search to the solution space.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

@@ -1307,3 +1307,10 @@ Embedding spaces represent words, sentences, or images as vectors where semantic
 Binary Search on Answer applies binary search to the solution space.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-08-11 — [AI] BERT Pre-training
+**Difficulty:** Advanced
+
+BERT uses masked language modeling and next sentence prediction for pre-training.
+
+🔗 Reference: https://arxiv.org/abs/1810.04805

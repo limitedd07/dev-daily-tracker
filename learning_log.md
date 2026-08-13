@@ -1321,3 +1321,10 @@ BERT uses masked language modeling and next sentence prediction for pre-training
 BERT uses masked language modeling and next sentence prediction for pre-training.
 
 🔗 Reference: https://arxiv.org/abs/1810.04805
+
+## 2026-08-13 — [AI] Reinforcement Learning Basics
+**Difficulty:** Intermediate
+
+RL trains agents through trial and error using rewards and penalties.
+
+🔗 Reference: https://spinningup.openai.com/en/latest/

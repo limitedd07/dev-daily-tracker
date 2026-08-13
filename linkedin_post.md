@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **BERT Pre-training** (AI).
+Today I explored **Reinforcement Learning Basics** (AI).
 
-BERT uses masked language modeling and next sentence prediction for pre-training.
+RL trains agents through trial and error using rewards and penalties.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

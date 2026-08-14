@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Reinforcement Learning Basics** (AI).
+Today I explored **Content Delivery Networks (CDN)** (System Design).
 
-RL trains agents through trial and error using rewards and penalties.
+CDNs cache content at edge locations near users for faster delivery.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

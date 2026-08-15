@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Content Delivery Networks (CDN)** (System Design).
+Today I explored **Transformer Architecture** (AI).
 
-CDNs cache content at edge locations near users for faster delivery.
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

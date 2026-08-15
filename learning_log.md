@@ -1335,3 +1335,10 @@ RL trains agents through trial and error using rewards and penalties.
 CDNs cache content at edge locations near users for faster delivery.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-08-15 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

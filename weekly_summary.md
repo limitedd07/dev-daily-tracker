@@ -802,3 +802,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-08-16
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-08-10
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 4 entries
+- System Design: 2 entries
+
+**Topics Covered:**
+- [AI] BERT Pre-training
+- [AI] BERT Pre-training
+- [AI] Reinforcement Learning Basics
+- [System Design] Content Delivery Networks (CDN)
+- [AI] Transformer Architecture
+- [System Design] Rate Limiting
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Rate Limiting** (System Design).
 
-The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) protect APIs from abuse, using Redis for distributed counters and returning 429 status codes.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

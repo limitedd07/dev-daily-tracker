@@ -1342,3 +1342,10 @@ CDNs cache content at edge locations near users for faster delivery.
 The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-08-16 — [System Design] Rate Limiting
+**Difficulty:** Intermediate
+
+Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) protect APIs from abuse, using Redis for distributed counters and returning 429 status codes.
+
+🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/

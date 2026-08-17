@@ -1349,3 +1349,10 @@ The Transformer architecture revolutionized NLP by replacing recurrence with sel
 Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) protect APIs from abuse, using Redis for distributed counters and returning 429 status codes.
 
 🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
+
+## 2026-08-17 — [System Design] Load Balancing Strategies
+**Difficulty:** Intermediate
+
+Load balancing distributes traffic across servers for scalability.
+
+🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/

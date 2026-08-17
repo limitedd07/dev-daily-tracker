@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Rate Limiting** (System Design).
+Today I explored **Load Balancing Strategies** (System Design).
 
-Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) protect APIs from abuse, using Redis for distributed counters and returning 429 status codes.
+Load balancing distributes traffic across servers for scalability.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

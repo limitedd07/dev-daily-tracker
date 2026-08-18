@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Load Balancing Strategies** (System Design).
+Today I explored **Sliding Window Technique** (DSA).
 
-Load balancing distributes traffic across servers for scalability.
+Sliding window maintains a subarray/substring while traversing sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

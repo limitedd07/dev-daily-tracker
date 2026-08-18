@@ -1356,3 +1356,10 @@ Rate limiting algorithms (token bucket, leaky bucket, fixed/sliding window) prot
 Load balancing distributes traffic across servers for scalability.
 
 🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/
+
+## 2026-08-18 — [DSA] Sliding Window Technique
+**Difficulty:** Intermediate
+
+Sliding window maintains a subarray/substring while traversing sequences.
+
+🔗 Reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/

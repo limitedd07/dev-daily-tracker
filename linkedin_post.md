@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Sliding Window Technique** (DSA).
+Today I explored **Two Pointers Technique** (DSA).
 
-Sliding window maintains a subarray/substring while traversing sequences.
+Two pointers traverse arrays/strings from different positions simultaneously.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

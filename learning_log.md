@@ -1363,3 +1363,10 @@ Load balancing distributes traffic across servers for scalability.
 Sliding window maintains a subarray/substring while traversing sequences.
 
 🔗 Reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+## 2026-08-19 — [DSA] Two Pointers Technique
+**Difficulty:** Beginner
+
+Two pointers traverse arrays/strings from different positions simultaneously.
+
+🔗 Reference: https://leetcode.com/problems/container-with-most-water/

@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Two Pointers Technique
+Topic: Topological Sort
 Domain: DSA
 Style: Minimal, professional, flat illustration.

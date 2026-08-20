@@ -1370,3 +1370,10 @@ Sliding window maintains a subarray/substring while traversing sequences.
 Two pointers traverse arrays/strings from different positions simultaneously.
 
 🔗 Reference: https://leetcode.com/problems/container-with-most-water/
+
+## 2026-08-20 — [DSA] Topological Sort
+**Difficulty:** Intermediate
+
+Topological sort orders DAG vertices respecting all edge directions.
+
+🔗 Reference: https://leetcode.com/problems/course-schedule-ii/

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Two Pointers Technique** (DSA).
+Today I explored **Topological Sort** (DSA).
 
-Two pointers traverse arrays/strings from different positions simultaneously.
+Topological sort orders DAG vertices respecting all edge directions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

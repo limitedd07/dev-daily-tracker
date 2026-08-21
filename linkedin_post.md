@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Topological Sort** (DSA).
+Today I explored **Model Quantization** (AI).
 
-Topological sort orders DAG vertices respecting all edge directions.
+Quantization reduces model size by using lower precision numbers.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

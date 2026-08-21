@@ -1377,3 +1377,10 @@ Two pointers traverse arrays/strings from different positions simultaneously.
 Topological sort orders DAG vertices respecting all edge directions.
 
 🔗 Reference: https://leetcode.com/problems/course-schedule-ii/
+
+## 2026-08-21 — [AI] Model Quantization
+**Difficulty:** Intermediate
+
+Quantization reduces model size by using lower precision numbers.
+
+🔗 Reference: https://pytorch.org/docs/stable/quantization.html

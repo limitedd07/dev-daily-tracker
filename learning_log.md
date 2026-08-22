@@ -1384,3 +1384,10 @@ Topological sort orders DAG vertices respecting all edge directions.
 Quantization reduces model size by using lower precision numbers.
 
 🔗 Reference: https://pytorch.org/docs/stable/quantization.html
+
+## 2026-08-22 — [System Design] Database Sharding
+**Difficulty:** Advanced
+
+Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
+
+🔗 Reference: https://www.mongodb.com/features/database-sharding-explained

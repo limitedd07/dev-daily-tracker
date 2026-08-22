@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Model Quantization** (AI).
+Today I explored **Database Sharding** (System Design).
 
-Quantization reduces model size by using lower precision numbers.
+Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

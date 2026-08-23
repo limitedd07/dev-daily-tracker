@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Sharding** (System Design).
+Today I explored **Horizontal vs Vertical Scaling** (System Design).
 
-Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
+Horizontal scaling (scale-out) adds commodity servers for better fault tolerance and unlimited growth, while vertical scaling (scale-up) has hardware limits but simpler architecture.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

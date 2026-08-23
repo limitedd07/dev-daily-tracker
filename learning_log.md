@@ -1391,3 +1391,10 @@ Quantization reduces model size by using lower precision numbers.
 Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
 
 🔗 Reference: https://www.mongodb.com/features/database-sharding-explained
+
+## 2026-08-23 — [System Design] Horizontal vs Vertical Scaling
+**Difficulty:** Beginner
+
+Horizontal scaling (scale-out) adds commodity servers for better fault tolerance and unlimited growth, while vertical scaling (scale-up) has hardware limits but simpler architecture.
+
+🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/

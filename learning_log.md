@@ -1398,3 +1398,10 @@ Sharding splits data by keys (hash, range, or geography) to scale beyond single-
 Horizontal scaling (scale-out) adds commodity servers for better fault tolerance and unlimited growth, while vertical scaling (scale-up) has hardware limits but simpler architecture.
 
 🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/
+
+## 2026-08-24 — [DSA] Union-Find (Disjoint Set)
+**Difficulty:** Intermediate
+
+Union-Find tracks connected components with near-constant time operations.
+
+🔗 Reference: https://leetcode.com/problems/redundant-connection/

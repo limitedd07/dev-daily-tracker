@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Horizontal vs Vertical Scaling** (System Design).
+Today I explored **Union-Find (Disjoint Set)** (DSA).
 
-Horizontal scaling (scale-out) adds commodity servers for better fault tolerance and unlimited growth, while vertical scaling (scale-up) has hardware limits but simpler architecture.
+Union-Find tracks connected components with near-constant time operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

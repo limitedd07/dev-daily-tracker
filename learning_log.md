@@ -1405,3 +1405,10 @@ Horizontal scaling (scale-out) adds commodity servers for better fault tolerance
 Union-Find tracks connected components with near-constant time operations.
 
 🔗 Reference: https://leetcode.com/problems/redundant-connection/
+
+## 2026-08-25 — [AI] Reinforcement Learning Basics
+**Difficulty:** Intermediate
+
+RL trains agents through trial and error using rewards and penalties.
+
+🔗 Reference: https://spinningup.openai.com/en/latest/

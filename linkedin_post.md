@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Union-Find (Disjoint Set)** (DSA).
+Today I explored **Reinforcement Learning Basics** (AI).
 
-Union-Find tracks connected components with near-constant time operations.
+RL trains agents through trial and error using rewards and penalties.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

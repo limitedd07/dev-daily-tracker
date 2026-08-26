@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Reinforcement Learning Basics** (AI).
+Today I explored **Backtracking** (DSA).
 
-RL trains agents through trial and error using rewards and penalties.
+Backtracking explores all possible solutions by building candidates incrementally.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

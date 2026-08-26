@@ -1412,3 +1412,10 @@ Union-Find tracks connected components with near-constant time operations.
 RL trains agents through trial and error using rewards and penalties.
 
 🔗 Reference: https://spinningup.openai.com/en/latest/
+
+## 2026-08-26 — [DSA] Backtracking
+**Difficulty:** Intermediate
+
+Backtracking explores all possible solutions by building candidates incrementally.
+
+🔗 Reference: https://leetcode.com/problems/n-queens/

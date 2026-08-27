@@ -1419,3 +1419,10 @@ RL trains agents through trial and error using rewards and penalties.
 Backtracking explores all possible solutions by building candidates incrementally.
 
 🔗 Reference: https://leetcode.com/problems/n-queens/
+
+## 2026-08-27 — [System Design] Database Replication
+**Difficulty:** Intermediate
+
+Replication copies data across multiple database instances for availability.
+
+🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html

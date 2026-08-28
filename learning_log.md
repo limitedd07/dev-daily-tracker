@@ -1426,3 +1426,10 @@ Backtracking explores all possible solutions by building candidates incrementall
 Replication copies data across multiple database instances for availability.
 
 🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html
+
+## 2026-08-28 — [DSA] Union-Find (Disjoint Set)
+**Difficulty:** Intermediate
+
+Union-Find tracks connected components with near-constant time operations.
+
+🔗 Reference: https://leetcode.com/problems/redundant-connection/

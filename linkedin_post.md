@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Replication** (System Design).
+Today I explored **Union-Find (Disjoint Set)** (DSA).
 
-Replication copies data across multiple database instances for availability.
+Union-Find tracks connected components with near-constant time operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

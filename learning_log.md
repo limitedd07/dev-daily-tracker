@@ -1433,3 +1433,10 @@ Replication copies data across multiple database instances for availability.
 Union-Find tracks connected components with near-constant time operations.
 
 🔗 Reference: https://leetcode.com/problems/redundant-connection/
+
+## 2026-08-29 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices architecture enables scalability and team autonomy but introduces complexity in service discovery, distributed transactions, data consistency, and inter-service communication.
+
+🔗 Reference: https://microservices.io/

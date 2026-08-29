@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Union-Find (Disjoint Set)** (DSA).
+Today I explored **Microservices Architecture** (System Design).
 
-Union-Find tracks connected components with near-constant time operations.
+Microservices architecture enables scalability and team autonomy but introduces complexity in service discovery, distributed transactions, data consistency, and inter-service communication.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

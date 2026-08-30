@@ -1440,3 +1440,10 @@ Union-Find tracks connected components with near-constant time operations.
 Microservices architecture enables scalability and team autonomy but introduces complexity in service discovery, distributed transactions, data consistency, and inter-service communication.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-08-30 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models learn to reverse a gradual noising process, generating high-quality images through learned denoising steps. They power tools like DALL-E 2 and Stable Diffusion.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

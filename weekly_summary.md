@@ -861,3 +861,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-08-30
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-08-24
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 2 entries
+- DSA: 2 entries
+- System Design: 2 entries
+
+**Topics Covered:**
+- [AI] Reinforcement Learning Basics
+- [DSA] Backtracking
+- [System Design] Database Replication
+- [DSA] Union-Find (Disjoint Set)
+- [System Design] Microservices Architecture
+- [AI] Diffusion Models
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

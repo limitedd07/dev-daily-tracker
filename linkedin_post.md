@@ -2,6 +2,6 @@
 
 Today I explored **Diffusion Models** (AI).
 
-Diffusion models learn to reverse a gradual noising process, generating high-quality images through learned denoising steps. They power tools like DALL-E 2 and Stable Diffusion.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

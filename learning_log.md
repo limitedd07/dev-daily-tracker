@@ -1447,3 +1447,10 @@ Microservices architecture enables scalability and team autonomy but introduces 
 Diffusion models learn to reverse a gradual noising process, generating high-quality images through learned denoising steps. They power tools like DALL-E 2 and Stable Diffusion.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-08-31 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

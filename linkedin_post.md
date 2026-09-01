@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Diffusion Models** (AI).
+Today I explored **Binary Search on Answer** (DSA).
 
-Diffusion models generate images by iteratively denoising random noise.
+Binary Search on Answer applies binary search to the solution space.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

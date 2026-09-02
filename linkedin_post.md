@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **Topological Sort** (DSA).
 
-Binary Search on Answer applies binary search to the solution space.
+Topological sort orders DAG vertices respecting all edge directions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

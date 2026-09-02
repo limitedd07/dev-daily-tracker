@@ -1461,3 +1461,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Binary Search on Answer applies binary search to the solution space.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-09-02 — [DSA] Topological Sort
+**Difficulty:** Intermediate
+
+Topological sort orders DAG vertices respecting all edge directions.
+
+🔗 Reference: https://leetcode.com/problems/course-schedule-ii/

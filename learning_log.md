@@ -1468,3 +1468,10 @@ Binary Search on Answer applies binary search to the solution space.
 Topological sort orders DAG vertices respecting all edge directions.
 
 🔗 Reference: https://leetcode.com/problems/course-schedule-ii/
+
+## 2026-09-03 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries store strings in a tree for efficient prefix-based operations.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

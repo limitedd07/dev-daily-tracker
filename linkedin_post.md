@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Trie Data Structure** (DSA).
+Today I explored **Diffusion Models** (AI).
 
-Tries store strings in a tree for efficient prefix-based operations.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

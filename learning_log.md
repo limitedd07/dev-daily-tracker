@@ -1475,3 +1475,10 @@ Topological sort orders DAG vertices respecting all edge directions.
 Tries store strings in a tree for efficient prefix-based operations.
 
 🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 2026-09-04 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

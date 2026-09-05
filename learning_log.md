@@ -1482,3 +1482,10 @@ Tries store strings in a tree for efficient prefix-based operations.
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-09-05 — [System Design] Message Queues
+**Difficulty:** Intermediate
+
+Message queues like RabbitMQ and Kafka buffer messages between producers and consumers, enabling async processing, load leveling, and fault tolerance through durable persistence.
+
+🔗 Reference: https://aws.amazon.com/message-queue/

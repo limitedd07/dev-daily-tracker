@@ -1489,3 +1489,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Message queues like RabbitMQ and Kafka buffer messages between producers and consumers, enabling async processing, load leveling, and fault tolerance through durable persistence.
 
 🔗 Reference: https://aws.amazon.com/message-queue/
+
+## 2026-09-06 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries (prefix trees) enable O(L) insert/search for strings of length L, supporting autocomplete, spell-checking, and IP routing through character-based branching.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

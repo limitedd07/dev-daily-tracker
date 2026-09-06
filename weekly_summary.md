@@ -891,3 +891,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-09-06
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-08-31
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- DSA: 4 entries
+- AI: 1 entries
+- System Design: 1 entries
+
+**Topics Covered:**
+- [DSA] Binary Search on Answer
+- [DSA] Topological Sort
+- [DSA] Trie Data Structure
+- [AI] Diffusion Models
+- [System Design] Message Queues
+- [DSA] Trie Data Structure
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

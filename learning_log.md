@@ -1496,3 +1496,10 @@ Message queues like RabbitMQ and Kafka buffer messages between producers and con
 Tries (prefix trees) enable O(L) insert/search for strings of length L, supporting autocomplete, spell-checking, and IP routing through character-based branching.
 
 🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 2026-09-07 — [AI] Model Quantization
+**Difficulty:** Intermediate
+
+Quantization reduces model size by using lower precision numbers.
+
+🔗 Reference: https://pytorch.org/docs/stable/quantization.html

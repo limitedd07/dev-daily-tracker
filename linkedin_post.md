@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Model Quantization** (AI).
+Today I explored **Embedding Spaces** (AI).
 
-Quantization reduces model size by using lower precision numbers.
+Embeddings map discrete tokens to continuous vector representations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

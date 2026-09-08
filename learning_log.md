@@ -1503,3 +1503,10 @@ Tries (prefix trees) enable O(L) insert/search for strings of length L, supporti
 Quantization reduces model size by using lower precision numbers.
 
 🔗 Reference: https://pytorch.org/docs/stable/quantization.html
+
+## 2026-09-08 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embeddings map discrete tokens to continuous vector representations.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

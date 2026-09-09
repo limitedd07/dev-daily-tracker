@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **BERT Pre-training** (AI).
 
-Embeddings map discrete tokens to continuous vector representations.
+BERT uses masked language modeling and next sentence prediction for pre-training.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

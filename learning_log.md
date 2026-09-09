@@ -1510,3 +1510,10 @@ Quantization reduces model size by using lower precision numbers.
 Embeddings map discrete tokens to continuous vector representations.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-09-09 — [AI] BERT Pre-training
+**Difficulty:** Advanced
+
+BERT uses masked language modeling and next sentence prediction for pre-training.
+
+🔗 Reference: https://arxiv.org/abs/1810.04805

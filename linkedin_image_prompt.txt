@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: BERT Pre-training
+Topic: Reinforcement Learning Basics
 Domain: AI
 Style: Minimal, professional, flat illustration.

@@ -1524,3 +1524,10 @@ BERT uses masked language modeling and next sentence prediction for pre-training
 RL trains agents through trial and error using rewards and penalties.
 
 🔗 Reference: https://spinningup.openai.com/en/latest/
+
+## 2026-09-11 — [System Design] Content Delivery Networks (CDN)
+**Difficulty:** Beginner
+
+CDNs cache content at edge locations near users for faster delivery.
+
+🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

@@ -1531,3 +1531,10 @@ RL trains agents through trial and error using rewards and penalties.
 CDNs cache content at edge locations near users for faster delivery.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-09-12 — [AI] Neural Architecture Search (NAS)
+**Difficulty:** Advanced
+
+NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
+
+🔗 Reference: https://arxiv.org/abs/1611.01578

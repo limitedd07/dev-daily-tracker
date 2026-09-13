@@ -1538,3 +1538,10 @@ CDNs cache content at edge locations near users for faster delivery.
 NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically discover optimal network architectures for specific tasks, often outperforming hand-designed models.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-09-13 — [AI] Transfer Learning in NLP
+**Difficulty:** Intermediate
+
+Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
+
+🔗 Reference: https://ruder.io/transfer-learning/

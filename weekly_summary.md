@@ -921,3 +921,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-09-13
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-09-07
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 5 entries
+- System Design: 1 entries
+
+**Topics Covered:**
+- [AI] Embedding Spaces
+- [AI] BERT Pre-training
+- [AI] Reinforcement Learning Basics
+- [System Design] Content Delivery Networks (CDN)
+- [AI] Neural Architecture Search (NAS)
+- [AI] Transfer Learning in NLP
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

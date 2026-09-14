@@ -1545,3 +1545,10 @@ NAS uses algorithms (evolutionary, RL-based, or gradient-based) to automatically
 Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
 
 🔗 Reference: https://ruder.io/transfer-learning/
+
+## 2026-09-14 — [DSA] Binary Indexed Tree (Fenwick Tree)
+**Difficulty:** Advanced
+
+BIT supports efficient prefix sum queries and updates.
+
+🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/

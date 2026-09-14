@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Transfer Learning in NLP
-Domain: AI
+Topic: Binary Indexed Tree (Fenwick Tree)
+Domain: DSA
 Style: Minimal, professional, flat illustration.

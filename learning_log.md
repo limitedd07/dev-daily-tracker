@@ -1552,3 +1552,10 @@ Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, 
 BIT supports efficient prefix sum queries and updates.
 
 🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/
+
+## 2026-09-15 — [System Design] Consistent Hashing
+**Difficulty:** Advanced
+
+Consistent hashing minimizes key redistribution when nodes change.
+
+🔗 Reference: https://www.toptal.com/big-data/consistent-hashing

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
+Today I explored **Consistent Hashing** (System Design).
 
-BIT supports efficient prefix sum queries and updates.
+Consistent hashing minimizes key redistribution when nodes change.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

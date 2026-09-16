@@ -1559,3 +1559,10 @@ BIT supports efficient prefix sum queries and updates.
 Consistent hashing minimizes key redistribution when nodes change.
 
 🔗 Reference: https://www.toptal.com/big-data/consistent-hashing
+
+## 2026-09-16 — [System Design] Load Balancing Strategies
+**Difficulty:** Intermediate
+
+Load balancing distributes traffic across servers for scalability.
+
+🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/

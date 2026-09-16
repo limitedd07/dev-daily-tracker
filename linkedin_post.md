@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Consistent Hashing** (System Design).
+Today I explored **Load Balancing Strategies** (System Design).
 
-Consistent hashing minimizes key redistribution when nodes change.
+Load balancing distributes traffic across servers for scalability.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

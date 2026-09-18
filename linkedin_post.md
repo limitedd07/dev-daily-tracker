@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **CAP Theorem** (System Design).
+Today I explored **KMP String Matching** (DSA).
 
-CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
+KMP finds pattern occurrences in O(n+m) using partial match table.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

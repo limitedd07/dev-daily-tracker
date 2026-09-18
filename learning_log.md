@@ -1573,3 +1573,10 @@ Load balancing distributes traffic across servers for scalability.
 CAP theorem states distributed systems can't guarantee all three: Consistency, Availability, Partition tolerance.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-09-18 — [DSA] KMP String Matching
+**Difficulty:** Advanced
+
+KMP finds pattern occurrences in O(n+m) using partial match table.
+
+🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **KMP String Matching** (DSA).
+Today I explored **Database Sharding** (System Design).
 
-KMP finds pattern occurrences in O(n+m) using partial match table.
+Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

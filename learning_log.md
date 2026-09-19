@@ -1580,3 +1580,10 @@ CAP theorem states distributed systems can't guarantee all three: Consistency, A
 KMP finds pattern occurrences in O(n+m) using partial match table.
 
 🔗 Reference: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+## 2026-09-19 — [System Design] Database Sharding
+**Difficulty:** Advanced
+
+Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
+
+🔗 Reference: https://www.mongodb.com/features/database-sharding-explained

@@ -1587,3 +1587,10 @@ KMP finds pattern occurrences in O(n+m) using partial match table.
 Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
 
 🔗 Reference: https://www.mongodb.com/features/database-sharding-explained
+
+## 2026-09-20 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

@@ -950,3 +950,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-09-20
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-09-14
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- System Design: 5 entries
+- DSA: 1 entries
+
+**Topics Covered:**
+- [System Design] Consistent Hashing
+- [System Design] Load Balancing Strategies
+- [System Design] CAP Theorem
+- [DSA] KMP String Matching
+- [System Design] Database Sharding
+- [System Design] Event-Driven Architecture
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

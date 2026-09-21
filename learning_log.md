@@ -1594,3 +1594,10 @@ Sharding splits data by keys (hash, range, or geography) to scale beyond single-
 Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-09-21 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+Transformers use self-attention mechanisms to process sequences in parallel.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

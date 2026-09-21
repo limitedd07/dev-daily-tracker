@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Event-Driven Architecture** (System Design).
+Today I explored **Transformer Architecture** (AI).
 
-Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
+Transformers use self-attention mechanisms to process sequences in parallel.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

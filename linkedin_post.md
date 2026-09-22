@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Event-Driven Architecture** (System Design).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+Event-driven systems communicate through asynchronous event notifications.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

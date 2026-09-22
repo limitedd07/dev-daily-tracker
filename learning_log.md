@@ -1601,3 +1601,10 @@ Event-driven architectures use event buses and message brokers for loose couplin
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-09-22 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven systems communicate through asynchronous event notifications.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

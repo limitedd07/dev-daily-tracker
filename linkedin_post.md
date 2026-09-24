@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Event-Driven Architecture** (System Design).
+Today I explored **Embedding Spaces** (AI).
 
-Event-driven systems communicate through asynchronous event notifications.
+Embeddings map discrete tokens to continuous vector representations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

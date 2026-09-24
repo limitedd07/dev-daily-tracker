@@ -1608,3 +1608,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 Event-driven systems communicate through asynchronous event notifications.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-09-24 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embeddings map discrete tokens to continuous vector representations.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Dynamic Programming Patterns** (DSA).
 
-Embeddings map discrete tokens to continuous vector representations.
+DP breaks problems into overlapping subproblems with optimal substructure.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

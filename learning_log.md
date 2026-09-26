@@ -1622,3 +1622,10 @@ Embeddings map discrete tokens to continuous vector representations.
 DP breaks problems into overlapping subproblems with optimal substructure.
 
 🔗 Reference: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
+## 2026-09-26 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

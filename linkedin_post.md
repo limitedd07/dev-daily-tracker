@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Dynamic Programming Patterns** (DSA).
+Today I explored **Transformer Architecture** (AI).
 
-DP breaks problems into overlapping subproblems with optimal substructure.
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

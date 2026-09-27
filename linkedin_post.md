@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Fine-tuning vs Prompt Engineering** (AI).
 
-The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

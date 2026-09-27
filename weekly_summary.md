@@ -979,3 +979,32 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-09-27
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-09-21
+
+**Total Learning Entries:** 5
+
+**Domain Breakdown:**
+- System Design: 1 entries
+- AI: 3 entries
+- DSA: 1 entries
+
+**Topics Covered:**
+- [System Design] Event-Driven Architecture
+- [AI] Embedding Spaces
+- [DSA] Dynamic Programming Patterns
+- [AI] Transformer Architecture
+- [AI] Fine-tuning vs Prompt Engineering
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

@@ -1629,3 +1629,10 @@ DP breaks problems into overlapping subproblems with optimal substructure.
 The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-09-27 — [AI] Fine-tuning vs Prompt Engineering
+**Difficulty:** Beginner
+
+Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
+
+🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning

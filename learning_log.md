@@ -1636,3 +1636,10 @@ The Transformer architecture revolutionized NLP by replacing recurrence with sel
 Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
 
 🔗 Reference: https://platform.openai.com/docs/guides/fine-tuning
+
+## 2026-09-28 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+Indexes accelerate database queries by creating searchable data structures.
+
+🔗 Reference: https://use-the-index-luke.com/

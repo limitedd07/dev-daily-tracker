@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Fine-tuning vs Prompt Engineering** (AI).
+Today I explored **Database Indexing** (System Design).
 
-Fine-tuning updates model weights on task-specific data, while prompt engineering crafts input instructions to elicit desired behaviors without changing weights.
+Indexes accelerate database queries by creating searchable data structures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

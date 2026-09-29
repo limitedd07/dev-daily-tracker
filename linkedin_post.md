@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Indexing** (System Design).
+Today I explored **Backtracking** (DSA).
 
-Indexes accelerate database queries by creating searchable data structures.
+Backtracking explores all possible solutions by building candidates incrementally.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

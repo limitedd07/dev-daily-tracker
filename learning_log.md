@@ -1643,3 +1643,10 @@ Fine-tuning updates model weights on task-specific data, while prompt engineerin
 Indexes accelerate database queries by creating searchable data structures.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-09-29 — [DSA] Backtracking
+**Difficulty:** Intermediate
+
+Backtracking explores all possible solutions by building candidates incrementally.
+
+🔗 Reference: https://leetcode.com/problems/n-queens/

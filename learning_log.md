@@ -1650,3 +1650,10 @@ Indexes accelerate database queries by creating searchable data structures.
 Backtracking explores all possible solutions by building candidates incrementally.
 
 🔗 Reference: https://leetcode.com/problems/n-queens/
+
+## 2026-09-30 — [DSA] Two Pointers Technique
+**Difficulty:** Beginner
+
+Two pointers traverse arrays/strings from different positions simultaneously.
+
+🔗 Reference: https://leetcode.com/problems/container-with-most-water/

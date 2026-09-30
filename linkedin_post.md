@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Backtracking** (DSA).
+Today I explored **Two Pointers Technique** (DSA).
 
-Backtracking explores all possible solutions by building candidates incrementally.
+Two pointers traverse arrays/strings from different positions simultaneously.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Two Pointers Technique** (DSA).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-Two pointers traverse arrays/strings from different positions simultaneously.
+GANs use two competing networks to generate realistic synthetic data.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

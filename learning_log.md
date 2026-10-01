@@ -1657,3 +1657,10 @@ Backtracking explores all possible solutions by building candidates incrementall
 Two pointers traverse arrays/strings from different positions simultaneously.
 
 🔗 Reference: https://leetcode.com/problems/container-with-most-water/
+
+## 2026-10-01 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs use two competing networks to generate realistic synthetic data.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

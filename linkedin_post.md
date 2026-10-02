@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Neural Architecture Search (NAS)** (AI).
 
-GANs use two competing networks to generate realistic synthetic data.
+NAS automates the design of neural network architectures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

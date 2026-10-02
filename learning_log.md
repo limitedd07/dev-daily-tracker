@@ -1664,3 +1664,10 @@ Two pointers traverse arrays/strings from different positions simultaneously.
 GANs use two competing networks to generate realistic synthetic data.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-10-02 — [AI] Neural Architecture Search (NAS)
+**Difficulty:** Advanced
+
+NAS automates the design of neural network architectures.
+
+🔗 Reference: https://arxiv.org/abs/1611.01578

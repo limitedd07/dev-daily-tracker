@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Neural Architecture Search (NAS)** (AI).
+Today I explored **Transfer Learning in NLP** (AI).
 
-NAS automates the design of neural network architectures.
+Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

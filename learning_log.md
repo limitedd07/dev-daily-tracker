@@ -1671,3 +1671,10 @@ GANs use two competing networks to generate realistic synthetic data.
 NAS automates the design of neural network architectures.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-10-03 — [AI] Transfer Learning in NLP
+**Difficulty:** Intermediate
+
+Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
+
+🔗 Reference: https://ruder.io/transfer-learning/

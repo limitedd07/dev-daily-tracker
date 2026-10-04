@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transfer Learning in NLP** (AI).
+Today I explored **Transformer Architecture** (AI).
 
-Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

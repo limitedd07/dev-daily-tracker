@@ -1678,3 +1678,10 @@ NAS automates the design of neural network architectures.
 Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, BERT) and fine-tunes on specific tasks, dramatically reducing data and compute requirements.
 
 🔗 Reference: https://ruder.io/transfer-learning/
+
+## 2026-10-04 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

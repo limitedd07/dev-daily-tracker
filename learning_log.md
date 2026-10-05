@@ -1685,3 +1685,10 @@ Transfer learning leverages knowledge from large-scale pre-training (e.g., GPT, 
 The Transformer architecture revolutionized NLP by replacing recurrence with self-attention, enabling parallel processing and better long-range dependencies through multi-head attention and positional encoding.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-10-05 — [DSA] Backtracking
+**Difficulty:** Intermediate
+
+Backtracking explores all possible solutions by building candidates incrementally.
+
+🔗 Reference: https://leetcode.com/problems/n-queens/

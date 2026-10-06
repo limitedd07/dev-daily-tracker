@@ -1692,3 +1692,10 @@ The Transformer architecture revolutionized NLP by replacing recurrence with sel
 Backtracking explores all possible solutions by building candidates incrementally.
 
 🔗 Reference: https://leetcode.com/problems/n-queens/
+
+## 2026-10-06 — [DSA] Sliding Window Technique
+**Difficulty:** Intermediate
+
+Sliding window maintains a subarray/substring while traversing sequences.
+
+🔗 Reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/

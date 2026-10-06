@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Backtracking** (DSA).
+Today I explored **Sliding Window Technique** (DSA).
 
-Backtracking explores all possible solutions by building candidates incrementally.
+Sliding window maintains a subarray/substring while traversing sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

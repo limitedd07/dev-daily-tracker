@@ -1699,3 +1699,10 @@ Backtracking explores all possible solutions by building candidates incrementall
 Sliding window maintains a subarray/substring while traversing sequences.
 
 🔗 Reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+## 2026-10-07 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embeddings map discrete tokens to continuous vector representations.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

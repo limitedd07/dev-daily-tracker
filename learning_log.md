@@ -1706,3 +1706,10 @@ Sliding window maintains a subarray/substring while traversing sequences.
 Embeddings map discrete tokens to continuous vector representations.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-10-08 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+Binary Search on Answer applies binary search to the solution space.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

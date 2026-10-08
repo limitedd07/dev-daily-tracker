@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Binary Search on Answer** (DSA).
 
-Embeddings map discrete tokens to continuous vector representations.
+Binary Search on Answer applies binary search to the solution space.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

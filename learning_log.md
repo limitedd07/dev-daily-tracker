@@ -1713,3 +1713,10 @@ Embeddings map discrete tokens to continuous vector representations.
 Binary Search on Answer applies binary search to the solution space.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-10-09 — [System Design] Horizontal vs Vertical Scaling
+**Difficulty:** Beginner
+
+Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
+
+🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/

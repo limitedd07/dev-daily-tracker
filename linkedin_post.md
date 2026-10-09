@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **Horizontal vs Vertical Scaling** (System Design).
 
-Binary Search on Answer applies binary search to the solution space.
+Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Horizontal vs Vertical Scaling** (System Design).
+Today I explored **Graph Traversal (BFS/DFS)** (DSA).
 
-Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
+BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursion for cycle detection, topological sorting, and connected components.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1720,3 +1720,10 @@ Binary Search on Answer applies binary search to the solution space.
 Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
 
 🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/
+
+## 2026-10-10 — [DSA] Graph Traversal (BFS/DFS)
+**Difficulty:** Intermediate
+
+BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursion for cycle detection, topological sorting, and connected components.
+
+🔗 Reference: https://leetcode.com/problems/number-of-islands/

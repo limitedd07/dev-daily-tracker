@@ -1727,3 +1727,10 @@ Vertical scaling adds resources to one machine; horizontal scaling adds more mac
 BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursion for cycle detection, topological sorting, and connected components.
 
 🔗 Reference: https://leetcode.com/problems/number-of-islands/
+
+## 2026-10-11 — [DSA] Union-Find (Disjoint Set)
+**Difficulty:** Intermediate
+
+Union-Find uses path compression and union by rank to achieve O(α(n)) amortized time for union/find operations, essential for Kruskal's MST and cycle detection.
+
+🔗 Reference: https://leetcode.com/problems/redundant-connection/

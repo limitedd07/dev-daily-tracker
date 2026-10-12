@@ -1734,3 +1734,10 @@ BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursio
 Union-Find uses path compression and union by rank to achieve O(α(n)) amortized time for union/find operations, essential for Kruskal's MST and cycle detection.
 
 🔗 Reference: https://leetcode.com/problems/redundant-connection/
+
+## 2026-10-12 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+Binary Search on Answer applies binary search to the solution space.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

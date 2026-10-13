@@ -1741,3 +1741,10 @@ Union-Find uses path compression and union by rank to achieve O(α(n)) amortized
 Binary Search on Answer applies binary search to the solution space.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-10-13 — [System Design] Rate Limiting
+**Difficulty:** Intermediate
+
+Rate limiting controls request rates to prevent abuse and overload.
+
+🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/

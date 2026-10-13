@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **Rate Limiting** (System Design).
 
-Binary Search on Answer applies binary search to the solution space.
+Rate limiting controls request rates to prevent abuse and overload.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

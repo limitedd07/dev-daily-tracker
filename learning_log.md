@@ -1748,3 +1748,10 @@ Binary Search on Answer applies binary search to the solution space.
 Rate limiting controls request rates to prevent abuse and overload.
 
 🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
+
+## 2026-10-14 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+Indexes accelerate database queries by creating searchable data structures.
+
+🔗 Reference: https://use-the-index-luke.com/

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Indexing** (System Design).
+Today I explored **Diffusion Models** (AI).
 
-Indexes accelerate database queries by creating searchable data structures.
+Diffusion models generate images by iteratively denoising random noise.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

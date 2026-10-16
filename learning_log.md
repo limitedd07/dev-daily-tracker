@@ -1762,3 +1762,10 @@ Indexes accelerate database queries by creating searchable data structures.
 Diffusion models generate images by iteratively denoising random noise.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-10-16 — [AI] Contrastive Learning
+**Difficulty:** Intermediate
+
+Contrastive learning trains models by comparing similar and dissimilar samples.
+
+🔗 Reference: https://arxiv.org/abs/2002.05709

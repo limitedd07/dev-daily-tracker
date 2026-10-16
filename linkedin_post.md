@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Diffusion Models** (AI).
+Today I explored **Contrastive Learning** (AI).
 
-Diffusion models generate images by iteratively denoising random noise.
+Contrastive learning trains models by comparing similar and dissimilar samples.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

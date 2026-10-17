@@ -1769,3 +1769,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Contrastive learning trains models by comparing similar and dissimilar samples.
 
 🔗 Reference: https://arxiv.org/abs/2002.05709
+
+## 2026-10-17 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

@@ -1776,3 +1776,10 @@ Contrastive learning trains models by comparing similar and dissimilar samples.
 This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-10-18 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

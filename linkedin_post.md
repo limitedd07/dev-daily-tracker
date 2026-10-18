@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Search on Answer** (DSA).
+Today I explored **GANs (Generative Adversarial Networks)** (AI).
 
-This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
+GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

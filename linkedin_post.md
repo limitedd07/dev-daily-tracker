@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Content Delivery Networks (CDN)** (System Design).
 
-GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
+CDNs cache content at edge locations near users for faster delivery.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

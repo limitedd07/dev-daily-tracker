@@ -1783,3 +1783,10 @@ This technique binary searches over possible answers (not array indices) for opt
 GANs pit a generator against a discriminator in a minimax game, where the generator learns to create increasingly realistic samples that fool the discriminator.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-10-19 — [System Design] Content Delivery Networks (CDN)
+**Difficulty:** Beginner
+
+CDNs cache content at edge locations near users for faster delivery.
+
+🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

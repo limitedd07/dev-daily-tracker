@@ -1790,3 +1790,10 @@ GANs pit a generator against a discriminator in a minimax game, where the genera
 CDNs cache content at edge locations near users for faster delivery.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-10-20 — [DSA] Binary Indexed Tree (Fenwick Tree)
+**Difficulty:** Advanced
+
+BIT supports efficient prefix sum queries and updates.
+
+🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/

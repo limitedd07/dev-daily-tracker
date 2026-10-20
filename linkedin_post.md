@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Content Delivery Networks (CDN)** (System Design).
+Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
 
-CDNs cache content at edge locations near users for faster delivery.
+BIT supports efficient prefix sum queries and updates.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

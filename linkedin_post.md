@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
+Today I explored **Microservices Architecture** (System Design).
 
-BIT supports efficient prefix sum queries and updates.
+Microservices decompose applications into independently deployable services.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

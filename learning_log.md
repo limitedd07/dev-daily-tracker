@@ -1797,3 +1797,10 @@ CDNs cache content at edge locations near users for faster delivery.
 BIT supports efficient prefix sum queries and updates.
 
 🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/
+
+## 2026-10-21 — [System Design] Microservices Architecture
+**Difficulty:** Advanced
+
+Microservices decompose applications into independently deployable services.
+
+🔗 Reference: https://microservices.io/

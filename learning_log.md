@@ -1804,3 +1804,10 @@ BIT supports efficient prefix sum queries and updates.
 Microservices decompose applications into independently deployable services.
 
 🔗 Reference: https://microservices.io/
+
+## 2026-10-22 — [System Design] Content Delivery Networks (CDN)
+**Difficulty:** Beginner
+
+CDNs cache content at edge locations near users for faster delivery.
+
+🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

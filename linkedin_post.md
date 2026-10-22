@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Microservices Architecture** (System Design).
+Today I explored **Content Delivery Networks (CDN)** (System Design).
 
-Microservices decompose applications into independently deployable services.
+CDNs cache content at edge locations near users for faster delivery.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Content Delivery Networks (CDN)** (System Design).
+Today I explored **Trie Data Structure** (DSA).
 
-CDNs cache content at edge locations near users for faster delivery.
+Tries store strings in a tree for efficient prefix-based operations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

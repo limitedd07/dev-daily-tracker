@@ -1811,3 +1811,10 @@ Microservices decompose applications into independently deployable services.
 CDNs cache content at edge locations near users for faster delivery.
 
 🔗 Reference: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+## 2026-10-23 — [DSA] Trie Data Structure
+**Difficulty:** Intermediate
+
+Tries store strings in a tree for efficient prefix-based operations.
+
+🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/

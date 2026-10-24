@@ -1818,3 +1818,10 @@ CDNs cache content at edge locations near users for faster delivery.
 Tries store strings in a tree for efficient prefix-based operations.
 
 🔗 Reference: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 2026-10-24 — [System Design] CAP Theorem
+**Difficulty:** Advanced
+
+CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
+
+🔗 Reference: https://www.ibm.com/topics/cap-theorem

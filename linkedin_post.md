@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Trie Data Structure** (DSA).
+Today I explored **CAP Theorem** (System Design).
 
-Tries store strings in a tree for efficient prefix-based operations.
+CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1825,3 +1825,10 @@ Tries store strings in a tree for efficient prefix-based operations.
 CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-10-25 — [DSA] Two Pointers Technique
+**Difficulty:** Beginner
+
+Two pointer patterns (opposite ends, same direction, or fast-slow) reduce time complexity from O(n²) to O(n) for problems like pair finding and palindrome checking.
+
+🔗 Reference: https://leetcode.com/problems/container-with-most-water/

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **CAP Theorem** (System Design).
+Today I explored **Two Pointers Technique** (DSA).
 
-CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
+Two pointer patterns (opposite ends, same direction, or fast-slow) reduce time complexity from O(n²) to O(n) for problems like pair finding and palindrome checking.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

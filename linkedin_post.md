@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Two Pointers Technique** (DSA).
+Today I explored **Large Language Models (LLMs)** (AI).
 
-Two pointer patterns (opposite ends, same direction, or fast-slow) reduce time complexity from O(n²) to O(n) for problems like pair finding and palindrome checking.
+LLMs are massive models trained on vast text corpora for language understanding.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

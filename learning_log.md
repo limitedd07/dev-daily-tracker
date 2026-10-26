@@ -1832,3 +1832,10 @@ CAP theorem proves distributed databases must choose two of three guarantees dur
 Two pointer patterns (opposite ends, same direction, or fast-slow) reduce time complexity from O(n²) to O(n) for problems like pair finding and palindrome checking.
 
 🔗 Reference: https://leetcode.com/problems/container-with-most-water/
+
+## 2026-10-26 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

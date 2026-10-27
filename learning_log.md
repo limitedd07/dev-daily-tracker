@@ -1839,3 +1839,10 @@ Two pointer patterns (opposite ends, same direction, or fast-slow) reduce time c
 LLMs are massive models trained on vast text corpora for language understanding.
 
 🔗 Reference: https://openai.com/research/gpt-4
+
+## 2026-10-27 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+Transformers use self-attention mechanisms to process sequences in parallel.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

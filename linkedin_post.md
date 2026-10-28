@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Database Indexing** (System Design).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+Indexes accelerate database queries by creating searchable data structures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

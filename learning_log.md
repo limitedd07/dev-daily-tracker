@@ -1853,3 +1853,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 Indexes accelerate database queries by creating searchable data structures.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-10-29 — [System Design] Rate Limiting
+**Difficulty:** Intermediate
+
+Rate limiting controls request rates to prevent abuse and overload.
+
+🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/

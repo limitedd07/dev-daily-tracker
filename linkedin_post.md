@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Rate Limiting** (System Design).
+Today I explored **Caching Strategies** (System Design).
 
-Rate limiting controls request rates to prevent abuse and overload.
+Caching stores frequently accessed data in fast storage layers.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

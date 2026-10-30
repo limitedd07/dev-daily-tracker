@@ -1860,3 +1860,10 @@ Indexes accelerate database queries by creating searchable data structures.
 Rate limiting controls request rates to prevent abuse and overload.
 
 🔗 Reference: https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
+
+## 2026-10-30 — [System Design] Caching Strategies
+**Difficulty:** Intermediate
+
+Caching stores frequently accessed data in fast storage layers.
+
+🔗 Reference: https://redis.io/docs/manual/patterns/caching/

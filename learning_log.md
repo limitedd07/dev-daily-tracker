@@ -1867,3 +1867,10 @@ Rate limiting controls request rates to prevent abuse and overload.
 Caching stores frequently accessed data in fast storage layers.
 
 🔗 Reference: https://redis.io/docs/manual/patterns/caching/
+
+## 2026-10-31 — [DSA] Graph Traversal (BFS/DFS)
+**Difficulty:** Intermediate
+
+BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursion for cycle detection, topological sorting, and connected components.
+
+🔗 Reference: https://leetcode.com/problems/number-of-islands/

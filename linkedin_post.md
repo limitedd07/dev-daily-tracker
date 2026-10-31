@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Caching Strategies** (System Design).
+Today I explored **Graph Traversal (BFS/DFS)** (DSA).
 
-Caching stores frequently accessed data in fast storage layers.
+BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursion for cycle detection, topological sorting, and connected components.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

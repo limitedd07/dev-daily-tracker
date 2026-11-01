@@ -1874,3 +1874,10 @@ Caching stores frequently accessed data in fast storage layers.
 BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursion for cycle detection, topological sorting, and connected components.
 
 🔗 Reference: https://leetcode.com/problems/number-of-islands/
+
+## 2026-11-01 — [System Design] Database Sharding
+**Difficulty:** Advanced
+
+Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
+
+🔗 Reference: https://www.mongodb.com/features/database-sharding-explained

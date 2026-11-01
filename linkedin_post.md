@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Graph Traversal (BFS/DFS)** (DSA).
+Today I explored **Database Sharding** (System Design).
 
-BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursion for cycle detection, topological sorting, and connected components.
+Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

@@ -1126,3 +1126,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-11-01
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-10-26
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 1 entries
+- System Design: 4 entries
+- DSA: 1 entries
+
+**Topics Covered:**
+- [AI] Transformer Architecture
+- [System Design] Database Indexing
+- [System Design] Rate Limiting
+- [System Design] Caching Strategies
+- [DSA] Graph Traversal (BFS/DFS)
+- [System Design] Database Sharding
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

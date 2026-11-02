@@ -1881,3 +1881,10 @@ BFS uses queues for shortest path in unweighted graphs; DFS uses stacks/recursio
 Sharding splits data by keys (hash, range, or geography) to scale beyond single-machine limits, requiring careful key selection to avoid hotspots and maintain query efficiency.
 
 🔗 Reference: https://www.mongodb.com/features/database-sharding-explained
+
+## 2026-11-02 — [System Design] Database Sharding
+**Difficulty:** Advanced
+
+Sharding partitions databases horizontally across multiple servers.
+
+🔗 Reference: https://www.mongodb.com/features/database-sharding-explained

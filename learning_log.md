@@ -1888,3 +1888,10 @@ Sharding splits data by keys (hash, range, or geography) to scale beyond single-
 Sharding partitions databases horizontally across multiple servers.
 
 🔗 Reference: https://www.mongodb.com/features/database-sharding-explained
+
+## 2026-11-03 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG improves LLM accuracy by retrieving documents before generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/

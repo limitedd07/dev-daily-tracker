@@ -1895,3 +1895,10 @@ Sharding partitions databases horizontally across multiple servers.
 RAG improves LLM accuracy by retrieving documents before generation.
 
 🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+## 2026-11-04 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven systems communicate through asynchronous event notifications.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

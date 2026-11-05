@@ -1902,3 +1902,10 @@ RAG improves LLM accuracy by retrieving documents before generation.
 Event-driven systems communicate through asynchronous event notifications.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-11-05 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

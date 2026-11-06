@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Large Language Models (LLMs)** (AI).
+Today I explored **Load Balancing Strategies** (System Design).
 
-LLMs are massive models trained on vast text corpora for language understanding.
+Load balancing distributes traffic across servers for scalability.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

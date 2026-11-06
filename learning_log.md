@@ -1909,3 +1909,10 @@ Event-driven systems communicate through asynchronous event notifications.
 LLMs are massive models trained on vast text corpora for language understanding.
 
 🔗 Reference: https://openai.com/research/gpt-4
+
+## 2026-11-06 — [System Design] Load Balancing Strategies
+**Difficulty:** Intermediate
+
+Load balancing distributes traffic across servers for scalability.
+
+🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/

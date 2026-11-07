@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Load Balancing Strategies
+Topic: Event-Driven Architecture
 Domain: System Design
 Style: Minimal, professional, flat illustration.

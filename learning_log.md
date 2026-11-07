@@ -1916,3 +1916,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 Load balancing distributes traffic across servers for scalability.
 
 🔗 Reference: https://www.nginx.com/resources/glossary/load-balancing/
+
+## 2026-11-07 — [System Design] Event-Driven Architecture
+**Difficulty:** Advanced
+
+Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
+
+🔗 Reference: https://aws.amazon.com/event-driven-architecture/

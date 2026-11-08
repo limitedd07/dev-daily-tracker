@@ -1923,3 +1923,10 @@ Load balancing distributes traffic across servers for scalability.
 Event-driven architectures use event buses and message brokers for loose coupling, enabling reactive systems, CQRS patterns, and event sourcing for audit trails.
 
 🔗 Reference: https://aws.amazon.com/event-driven-architecture/
+
+## 2026-11-08 — [DSA] Monotonic Stack/Queue
+**Difficulty:** Intermediate
+
+Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
+
+🔗 Reference: https://leetcode.com/problems/next-greater-element-i/

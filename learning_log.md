@@ -1930,3 +1930,10 @@ Event-driven architectures use event buses and message brokers for loose couplin
 Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O(n) solutions for next greater element, largest rectangle, and sliding window maximum.
 
 🔗 Reference: https://leetcode.com/problems/next-greater-element-i/
+
+## 2026-11-09 — [AI] Transformer Architecture
+**Difficulty:** Advanced
+
+Transformers use self-attention mechanisms to process sequences in parallel.
+
+🔗 Reference: https://arxiv.org/abs/1706.03762

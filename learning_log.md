@@ -1937,3 +1937,10 @@ Monotonic stacks/queues keep elements in increasing/decreasing order, enabling O
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-11-10 — [DSA] Segment Trees
+**Difficulty:** Advanced
+
+Segment trees enable efficient range queries and updates.
+
+🔗 Reference: https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/

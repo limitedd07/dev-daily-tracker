@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Segment Trees** (DSA).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+Segment trees enable efficient range queries and updates.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

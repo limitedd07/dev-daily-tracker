@@ -1944,3 +1944,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 Segment trees enable efficient range queries and updates.
 
 🔗 Reference: https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
+
+## 2026-11-11 — [DSA] Bit Manipulation Tricks
+**Difficulty:** Intermediate
+
+Bit manipulation uses bitwise operations for efficient computation.
+
+🔗 Reference: https://leetcode.com/problems/single-number/

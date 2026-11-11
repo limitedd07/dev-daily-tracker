@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Segment Trees
+Topic: Bit Manipulation Tricks
 Domain: DSA
 Style: Minimal, professional, flat illustration.

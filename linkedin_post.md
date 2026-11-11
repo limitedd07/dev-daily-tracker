@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Segment Trees** (DSA).
+Today I explored **Bit Manipulation Tricks** (DSA).
 
-Segment trees enable efficient range queries and updates.
+Bit manipulation uses bitwise operations for efficient computation.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

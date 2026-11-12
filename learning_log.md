@@ -1951,3 +1951,10 @@ Segment trees enable efficient range queries and updates.
 Bit manipulation uses bitwise operations for efficient computation.
 
 🔗 Reference: https://leetcode.com/problems/single-number/
+
+## 2026-11-12 — [AI] Large Language Models (LLMs)
+**Difficulty:** Advanced
+
+LLMs are massive models trained on vast text corpora for language understanding.
+
+🔗 Reference: https://openai.com/research/gpt-4

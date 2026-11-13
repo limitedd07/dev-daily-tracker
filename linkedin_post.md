@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Large Language Models (LLMs)** (AI).
+Today I explored **Transformer Architecture** (AI).
 
-LLMs are massive models trained on vast text corpora for language understanding.
+Transformers use self-attention mechanisms to process sequences in parallel.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

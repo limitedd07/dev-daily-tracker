@@ -1965,3 +1965,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-11-14 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models learn to reverse a gradual noising process, generating high-quality images through learned denoising steps. They power tools like DALL-E 2 and Stable Diffusion.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

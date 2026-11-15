@@ -1972,3 +1972,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 Diffusion models learn to reverse a gradual noising process, generating high-quality images through learned denoising steps. They power tools like DALL-E 2 and Stable Diffusion.
 
 🔗 Reference: https://arxiv.org/abs/2006.11239
+
+## 2026-11-15 — [DSA] Binary Search on Answer
+**Difficulty:** Intermediate
+
+This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
+
+🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/

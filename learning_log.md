@@ -1979,3 +1979,10 @@ Diffusion models learn to reverse a gradual noising process, generating high-qua
 This technique binary searches over possible answers (not array indices) for optimization problems where feasibility is monotonic, like finding minimum capacity or maximum value.
 
 🔗 Reference: https://leetcode.com/problems/koko-eating-bananas/
+
+## 2026-11-16 — [AI] Diffusion Models
+**Difficulty:** Advanced
+
+Diffusion models generate images by iteratively denoising random noise.
+
+🔗 Reference: https://arxiv.org/abs/2006.11239

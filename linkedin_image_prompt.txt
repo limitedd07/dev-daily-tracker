@@ -1,4 +1,4 @@
 Create a clean LinkedIn post image.
-Topic: Diffusion Models
+Topic: Transformer Architecture
 Domain: AI
 Style: Minimal, professional, flat illustration.

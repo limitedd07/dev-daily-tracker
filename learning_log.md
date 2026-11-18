@@ -1993,3 +1993,10 @@ Diffusion models generate images by iteratively denoising random noise.
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-11-18 — [System Design] Circuit Breaker Pattern
+**Difficulty:** Advanced
+
+Circuit breakers prevent cascading failures by stopping calls to failing services.
+
+🔗 Reference: https://martinfowler.com/bliki/CircuitBreaker.html

@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Circuit Breaker Pattern** (System Design).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+Circuit breakers prevent cascading failures by stopping calls to failing services.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

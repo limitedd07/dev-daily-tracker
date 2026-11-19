@@ -2000,3 +2000,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 Circuit breakers prevent cascading failures by stopping calls to failing services.
 
 🔗 Reference: https://martinfowler.com/bliki/CircuitBreaker.html
+
+## 2026-11-19 — [DSA] Binary Indexed Tree (Fenwick Tree)
+**Difficulty:** Advanced
+
+BIT supports efficient prefix sum queries and updates.
+
+🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/

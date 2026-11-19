@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Circuit Breaker Pattern** (System Design).
+Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
 
-Circuit breakers prevent cascading failures by stopping calls to failing services.
+BIT supports efficient prefix sum queries and updates.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

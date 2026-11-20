@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Binary Indexed Tree (Fenwick Tree)** (DSA).
+Today I explored **Topological Sort** (DSA).
 
-BIT supports efficient prefix sum queries and updates.
+Topological sort orders DAG vertices respecting all edge directions.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

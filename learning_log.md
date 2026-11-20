@@ -2007,3 +2007,10 @@ Circuit breakers prevent cascading failures by stopping calls to failing service
 BIT supports efficient prefix sum queries and updates.
 
 🔗 Reference: https://leetcode.com/problems/range-sum-query-mutable/
+
+## 2026-11-20 — [DSA] Topological Sort
+**Difficulty:** Intermediate
+
+Topological sort orders DAG vertices respecting all edge directions.
+
+🔗 Reference: https://leetcode.com/problems/course-schedule-ii/

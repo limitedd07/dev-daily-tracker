@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Topological Sort** (DSA).
+Today I explored **CAP Theorem** (System Design).
 
-Topological sort orders DAG vertices respecting all edge directions.
+CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

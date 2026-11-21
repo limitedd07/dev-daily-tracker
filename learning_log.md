@@ -2014,3 +2014,10 @@ BIT supports efficient prefix sum queries and updates.
 Topological sort orders DAG vertices respecting all edge directions.
 
 🔗 Reference: https://leetcode.com/problems/course-schedule-ii/
+
+## 2026-11-21 — [System Design] CAP Theorem
+**Difficulty:** Advanced
+
+CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
+
+🔗 Reference: https://www.ibm.com/topics/cap-theorem

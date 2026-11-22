@@ -2021,3 +2021,10 @@ Topological sort orders DAG vertices respecting all edge directions.
 CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
 
 🔗 Reference: https://www.ibm.com/topics/cap-theorem
+
+## 2026-11-22 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+B-tree and hash indexes trade write performance for read speed, requiring careful selection based on query patterns to avoid index bloat and maintain optimal query plans.
+
+🔗 Reference: https://use-the-index-luke.com/

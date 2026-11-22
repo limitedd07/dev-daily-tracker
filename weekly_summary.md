@@ -1215,3 +1215,33 @@ Each week includes:
 - [ ] What should I focus on next week?
 
 ---
+
+## Week of 2026-11-22
+- [ ] Review learning log for this week
+- [ ] Identify key takeaways
+- [ ] Plan next week's focus
+
+## Week of 2026-11-16
+
+**Total Learning Entries:** 6
+
+**Domain Breakdown:**
+- AI: 1 entries
+- System Design: 3 entries
+- DSA: 2 entries
+
+**Topics Covered:**
+- [AI] Transformer Architecture
+- [System Design] Circuit Breaker Pattern
+- [DSA] Binary Indexed Tree (Fenwick Tree)
+- [DSA] Topological Sort
+- [System Design] CAP Theorem
+- [System Design] Database Indexing
+
+**Weekly Reflection:**
+- [ ] What was the most valuable learning this week?
+- [ ] Which topic do I want to explore deeper?
+- [ ] What connections did I make between topics?
+- [ ] What should I focus on next week?
+
+---

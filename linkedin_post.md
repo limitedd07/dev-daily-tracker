@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **CAP Theorem** (System Design).
+Today I explored **Database Indexing** (System Design).
 
-CAP theorem proves distributed databases must choose two of three guarantees during network partitions: CP systems (MongoDB) sacrifice availability; AP systems (Cassandra) allow eventual consistency.
+B-tree and hash indexes trade write performance for read speed, requiring careful selection based on query patterns to avoid index bloat and maintain optimal query plans.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

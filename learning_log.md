@@ -2028,3 +2028,10 @@ CAP theorem proves distributed databases must choose two of three guarantees dur
 B-tree and hash indexes trade write performance for read speed, requiring careful selection based on query patterns to avoid index bloat and maintain optimal query plans.
 
 🔗 Reference: https://use-the-index-luke.com/
+
+## 2026-11-23 — [System Design] Horizontal vs Vertical Scaling
+**Difficulty:** Beginner
+
+Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
+
+🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/

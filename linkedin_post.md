@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Indexing** (System Design).
+Today I explored **Horizontal vs Vertical Scaling** (System Design).
 
-B-tree and hash indexes trade write performance for read speed, requiring careful selection based on query patterns to avoid index bloat and maintain optimal query plans.
+Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

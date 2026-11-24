@@ -2035,3 +2035,10 @@ B-tree and hash indexes trade write performance for read speed, requiring carefu
 Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
 
 🔗 Reference: https://www.section.io/blog/scaling-horizontally-vs-vertically/
+
+## 2026-11-24 — [AI] Neural Architecture Search (NAS)
+**Difficulty:** Advanced
+
+NAS automates the design of neural network architectures.
+
+🔗 Reference: https://arxiv.org/abs/1611.01578

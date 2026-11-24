@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Horizontal vs Vertical Scaling** (System Design).
+Today I explored **Neural Architecture Search (NAS)** (AI).
 
-Vertical scaling adds resources to one machine; horizontal scaling adds more machines.
+NAS automates the design of neural network architectures.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

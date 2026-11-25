@@ -2042,3 +2042,10 @@ Vertical scaling adds resources to one machine; horizontal scaling adds more mac
 NAS automates the design of neural network architectures.
 
 🔗 Reference: https://arxiv.org/abs/1611.01578
+
+## 2026-11-25 — [AI] GANs (Generative Adversarial Networks)
+**Difficulty:** Advanced
+
+GANs use two competing networks to generate realistic synthetic data.
+
+🔗 Reference: https://arxiv.org/abs/1406.2661

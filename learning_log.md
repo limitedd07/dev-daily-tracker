@@ -2049,3 +2049,10 @@ NAS automates the design of neural network architectures.
 GANs use two competing networks to generate realistic synthetic data.
 
 🔗 Reference: https://arxiv.org/abs/1406.2661
+
+## 2026-11-26 — [DSA] Monotonic Stack/Queue
+**Difficulty:** Intermediate
+
+Monotonic structures maintain sorted order while processing sequences.
+
+🔗 Reference: https://leetcode.com/problems/next-greater-element-i/

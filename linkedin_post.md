@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **GANs (Generative Adversarial Networks)** (AI).
+Today I explored **Monotonic Stack/Queue** (DSA).
 
-GANs use two competing networks to generate realistic synthetic data.
+Monotonic structures maintain sorted order while processing sequences.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering

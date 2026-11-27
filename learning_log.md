@@ -2056,3 +2056,10 @@ GANs use two competing networks to generate realistic synthetic data.
 Monotonic structures maintain sorted order while processing sequences.
 
 🔗 Reference: https://leetcode.com/problems/next-greater-element-i/
+
+## 2026-11-27 — [AI] Transfer Learning in NLP
+**Difficulty:** Intermediate
+
+Transfer learning reuses pre-trained models for new tasks with less data.
+
+🔗 Reference: https://ruder.io/transfer-learning/
